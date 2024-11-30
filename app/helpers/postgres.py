@@ -1,4 +1,8 @@
 import psycopg2
+
+from psycopg2 import extras
+
+
 # postgres.py
 class DatabaseConnection:
     _instance = None
@@ -11,13 +15,17 @@ class DatabaseConnection:
 
     def init_connection(self, host, port, user, password, database):
         self.connection = psycopg2.connect(
-            host=host, port=port, user=user, password=password, database=database
+            host=host,
+            port=port,
+            user=user,
+            password=password,
+            database=database,
+            cursor_factory=extras.DictCursor,
         )
 
     def return_connection(self):
         return self.connection
-    
 
     def __del__(self):
-        if hasattr(self, 'connection'):
+        if hasattr(self, "connection"):
             self.connection.close()

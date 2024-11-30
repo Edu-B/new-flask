@@ -55,7 +55,9 @@ def create_app() -> Flask:
 
     # Setup blueprints
     from .blueprints import core_blueprint
+    from .blueprints import database_blueprint
 
     app.register_blueprint(core_blueprint, url_prefix="/api")
+    app.register_blueprint(database_blueprint, url_prefix="/api")
 
     return app
