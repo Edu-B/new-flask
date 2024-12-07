@@ -1,0 +1,52 @@
+uuid_ejercicio,nombre_ejercicio,uuid_categoria
+        77ae0205-d026-4a51-bf0b-d1b7290f2079,Sentadilla,7aea2084-4166-49e0-8e9d-90bde8f13eb2
+        3e538541-43fe-4cf9-8fb8-f59af033208e,Peso muerto,7aea2084-4166-49e0-8e9d-90bde8f13eb2
+        76d7b5dd-6459-40db-9173-14c3c21c4587,Press de banca,7aea2084-4166-49e0-8e9d-90bde8f13eb2
+        71308f52-9d08-40ff-94e4-711fc5e5bf3c,Correr,7dde9ba1-8cf9-4b3d-a467-f29a1e5f6ce2
+        3ec834bc-a23a-42cc-a3fc-afd725be4f90,Nadar,7dde9ba1-8cf9-4b3d-a467-f29a1e5f6ce2
+        ddd08299-dddf-4a4e-8ae5-d26a0a0d6512,Flexiones,7aea2084-4166-49e0-8e9d-90bde8f13eb2
+        f57695f5-18a3-4b8a-862e-6f07a6586ff4,Yoga - Estiramientos,b881e106-18e5-4bac-86bd-24e495d3a07b
+        2a42bab4-e3c9-4b34-8461-ff302cb47d2c,Saltar la cuerda,7dde9ba1-8cf9-4b3d-a467-f29a1e5f6ce2
+        8f0f6a20-2bee-43a9-a792-65302af4fd1e,Zancadas,7aea2084-4166-49e0-8e9d-90bde8f13eb2
+        76183465-5155-4e47-88d4-d141035f5a02,Bicicleta estática,7dde9ba1-8cf9-4b3d-a467-f29a1e5f6ce2
+        44f8c5a8-8181-403f-8edf-587c3dde9b97,Press militar,7aea2084-4166-49e0-8e9d-90bde8f13eb2
+        71977458-4cd8-4d94-83e3-7d2ff615bc8c,Remo con barra,7aea2084-4166-49e0-8e9d-90bde8f13eb2
+        179135f6-cad7-4be9-b60d-95da9e3771b8,Dominadas,7aea2084-4166-49e0-8e9d-90bde8f13eb2
+        a0b293da-22b3-453b-ba37-e5f72c1902af,Step-ups,7dde9ba1-8cf9-4b3d-a467-f29a1e5f6ce2
+        57f4535a-20a5-4234-800d-d681771791fa,Plancha,b881e106-18e5-4bac-86bd-24e495d3a07b
+        d6ea5e1d-ce5a-4182-a72e-a588249514fb,Mountain climbers,7dde9ba1-8cf9-4b3d-a467-f29a1e5f6ce2
+        33f468ec-c4da-4001-96be-78fcd6de1872,Abdominales,7aea2084-4166-49e0-8e9d-90bde8f13eb2
+        1293be5b-304f-4df8-a7fa-fdc69856e1dd,Burpees,7dde9ba1-8cf9-4b3d-a467-f29a1e5f6ce2
+        91187fcf-311b-4115-a1fb-7d986113b651,Kettlebell swings,7aea2084-4166-49e0-8e9d-90bde8f13eb2
+        58e7bb41-1582-4179-9f4c-41b1e4c121de,Correr en cinta,7dde9ba1-8cf9-4b3d-a467-f29a1e5f6ce2
+        bad7d3e2-fae5-4b8f-a7ee-5e71110a2601,Escaladora,7dde9ba1-8cf9-4b3d-a467-f29a1e5f6ce2
+        3510489b-c6df-4f45-bcb6-a8679dc31607,Elíptica,7dde9ba1-8cf9-4b3d-a467-f29a1e5f6ce2
+        08944cc2-62c1-45fa-b1e5-4315638862c6,Saltos de tijera,7dde9ba1-8cf9-4b3d-a467-f29a1e5f6ce2
+        80cad47e-07e5-4d44-82fc-a1d55227a494,Levantamiento de pierna lateral,b881e106-18e5-4bac-86bd-24e495d3a07b
+        585fb2c7-f084-49aa-91ef-1b486cf90160,Tijeras de pierna,b881e106-18e5-4bac-86bd-24e495d3a07b
+        c2b604a0-4d11-4863-96fe-fc46ba1e0d9a,Elevación de talones,b881e106-18e5-4bac-86bd-24e495d3a07b
+        0c799cf2-a30c-4073-a5a4-12f8803f9155,Superman,b881e106-18e5-4bac-86bd-24e495d3a07b
+        3e54389b-f9c4-4556-ab85-1f6ce718530d,Puente de glúteos,7aea2084-4166-49e0-8e9d-90bde8f13eb2
+        480e2b39-0c3d-4350-870f-1e66bcb745b8,Box jumps,7dde9ba1-8cf9-4b3d-a467-f29a1e5f6ce2
+        861fa990-0250-4bf0-8249-04c6c2ba3813,Caminar,7dde9ba1-8cf9-4b3d-a467-f29a1e5f6ce2
+        1500407a-8bec-4437-8d86-31052511f043,Russian twists,7aea2084-4166-49e0-8e9d-90bde8f13eb2
+        593da1ad-3cd4-4786-9cf0-bdf43bd24b20,Spinning,7dde9ba1-8cf9-4b3d-a467-f29a1e5f6ce2
+        09462fa9-ccb6-41fc-b54c-63aa71f30fec,Remos con cable,7aea2084-4166-49e0-8e9d-90bde8f13eb2
+        c1405791-89d1-4b81-849a-19a83d940616,Peso muerto rumano,7aea2084-4166-49e0-8e9d-90bde8f13eb2
+        a114e1c6-edff-4c9c-8ca8-859bd2dad658,Skaters,7dde9ba1-8cf9-4b3d-a467-f29a1e5f6ce2
+        1f1e8fc9-d37b-44b3-9b3b-099c6654d430,Band pull-aparts,b881e106-18e5-4bac-86bd-24e495d3a07b
+        92660270-562a-47b2-90d7-4a98dcd8ae88,Front squats,7aea2084-4166-49e0-8e9d-90bde8f13eb2
+        c9c18624-ba59-4f35-b98c-6f5fac99d830,Hip thrust,7aea2084-4166-49e0-8e9d-90bde8f13eb2
+        fa517586-7836-41e6-a0c8-8d838fc193c2,Push press,7aea2084-4166-49e0-8e9d-90bde8f13eb2
+        a8c81b93-558c-4a3b-9b6f-d7472626fd9e,Press Arnold,7aea2084-4166-49e0-8e9d-90bde8f13eb2
+        83b8f11c-9a38-46d2-a9f6-a037c30220a6,Crunches,7aea2084-4166-49e0-8e9d-90bde8f13eb2
+        926a16ee-a507-43d8-998b-2f5ccb0b8bbd,High knees,7dde9ba1-8cf9-4b3d-a467-f29a1e5f6ce2
+        b282cbff-b5da-4e8e-b3bf-d88758f32d52,Jump squats,7dde9ba1-8cf9-4b3d-a467-f29a1e5f6ce2
+        8e3c7c2f-1152-45a1-8c38-6c193cea47dc,Sprints,7dde9ba1-8cf9-4b3d-a467-f29a1e5f6ce2
+        b615fe07-bed8-4d23-ae2a-8f9667e7a933,Dead bug,b881e106-18e5-4bac-86bd-24e495d3a07b
+        d1fd98cb-d29d-4e59-8dbe-4318adaf76ec,Side plank,b881e106-18e5-4bac-86bd-24e495d3a07b
+        3de356fd-9d20-4503-bafc-c28c56e2b50f,Wall sits,b881e106-18e5-4bac-86bd-24e495d3a07b
+        3fd46cbe-c0fe-4730-9c14-17edef9be63f,Curls con mancuerna,7aea2084-4166-49e0-8e9d-90bde8f13eb2
+        67198b32-afce-45d1-b732-f43ffa851e7e,Extension de tríceps,7aea2084-4166-49e0-8e9d-90bde8f13eb2
+        410491da-52d3-43cd-b163-29778e6ad967,Face pulls,b881e106-18e5-4bac-86bd-24e495d3a07b
+        

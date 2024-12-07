@@ -1,0 +1,1001 @@
+edad,peso,estatura,genero,ejercicio,enfermedades
+56,50.903305196136415,1.8726963851233405,1,Escaladora,Esclerosis lateral amiotrófica;Bursitis;Osteoporosis;Cáncer
+69,78.05195453800835,1.6600363814385397,1,Elíptica,Artritis degenerativa grave;Asma
+46,63.654738820735446,1.7224684725751886,1,Side plank,Osteoporosis;Miastenia grave;Esclerosis lateral amiotrófica
+32,53.666194356034886,1.793259083187309,0,Dead bug,Enfermedad Pulmonar Obstructiva Crónica (EPOC);Fibromialgia;Insuficiencia Cardíaca
+60,65.3014067363621,1.5581634267066968,0,Skaters,
+25,58.77677994578407,1.5239191188019223,0,Mountain climbers,Cáncer;Desgarro de ligamentos
+38,100.30712452608847,1.5474343685429905,1,Mountain climbers,Osteoporosis
+56,88.22459635424175,1.8262584103427182,1,Face pulls,Aneurisma cerebral;Obesidad mórbida;Desgarros musculares;Fracturas óseas
+36,74.88041038025074,1.6448141854107552,1,Abdominales,Hernia discal;Insuficiencia Cardíaca;Esclerosis múltiple
+40,97.19916208335039,1.9558199285668252,0,Bicicleta estática,Esguinces;Diabetes tipo 1;Obesidad mórbida
+28,76.16052461471428,1.6435752401342612,1,Skaters,Aneurisma cerebral;distrofia muscular;Esclerosis múltiple
+28,62.08073698007605,1.7184551303197038,1,Mountain climbers,
+41,97.84686115904486,1.8542109952567876,0,Wall sits,
+53,83.08365065526988,1.9006092888159123,1,Spinning,Parkinson;Diabetes tipo 1;Enfermedad Pulmonar Obstructiva Crónica (EPOC)
+57,59.441307685103155,1.9061503576636398,0,Mountain climbers,Dislocaciones
+41,72.14491982874588,1.8208366230593143,0,Nadar,Hernia de Disco;Asma;Enfermedad Pulmonar Obstructiva Crónica (EPOC)
+20,61.86572619922865,1.8024062525811462,1,Plancha,Fibrilación Auricular;Colitis ulcerosa
+39,54.25800403553496,1.7592526949201184,1,Spinning,Esclerosis múltiple;Osteoporosis;Fibromialgia
+19,88.89266321297463,1.7778361076166638,1,Nadar,Dislocaciones;Colitis ulcerosa;Diabetes tipo 1
+41,103.64124960705196,1.6448814283671467,0,Dead bug,Miastenia grave;Artritis degenerativa grave;Enfermedad Pulmonar Obstructiva Crónica (EPOC);Artritis reumatoide
+61,54.02148639271288,1.6181801116577692,0,Puente de glúteos,Obesidad mórbida;Artritis degenerativa grave
+47,83.44453855035856,1.6996625542589048,0,Elíptica,Esguinces;Lupus eritematoso sistémico
+55,65.24036146317259,1.682981537747507,1,Nadar,Desgarro de ligamentos;Esclerosis lateral amiotrófica;Diabetes tipo 1;Fibrilación Auricular
+19,67.69311924352957,1.6546771950672725,1,Dead bug,Miastenia grave;Insuficiencia Cardíaca
+38,66.11409113641696,1.7696387447456714,1,Caminar,Asma;Hernia discal;Esclerosis múltiple;Osteoporosis
+50,62.04013845480276,1.7955305208570511,1,Elevación de talones,Fibrilación Auricular
+29,75.7278244191724,1.7088406886291847,0,Flexiones,
+39,62.535748253834434,1.8477530081055262,0,Face pulls,Osteoartritis;Miocardiopatía;Desgarro de ligamentos
+61,79.05685238669759,1.5858310885866493,0,Yoga - Estiramientos,
+42,74.24642835826295,1.6806340540720281,0,Caminar,Desgarros musculares;Tendinitis;Enfermedad Pulmonar Obstructiva Crónica (EPOC);Diabetes tipo 1
+66,71.41577929700385,1.6283177679397194,1,Elevación de talones,Miocardiopatía;Miopatía Inflamatoria;Hipertensión arterial;Fibrilación Auricular
+44,61.386545069376034,1.513346338292694,1,Dead bug,
+59,66.34843004147501,1.69173193141573,1,Band pull-aparts,Obesidad mórbida;Fibrilación Auricular;Cáncer
+45,86.33086838738635,1.6878252491616716,0,Caminar,Miastenia grave
+33,82.5137578143657,1.851344974324213,0,Wall sits,Lupus eritematoso sistémico;Asma;Tendinitis
+32,60.33667132802174,1.7630811684554777,1,Escaladora,Cáncer;Cardiopatías;distrofia muscular;Artritis reumatoide
+64,76.48998458143839,1.5975813175670794,1,Skaters,
+68,86.27080685057683,1.8854092566334189,0,Skaters,Cardiopatías;distrofia muscular;Desgarros musculares;Hernia discal
+61,49.95892078317942,1.8221033695525353,1,Tijeras de pierna,Esclerosis lateral amiotrófica;Bursitis;Angina de Pecho;Osteoartritis
+69,83.15040288569902,1.7582097703468615,0,Mountain climbers,Osteoartritis;Diabetes tipo 1;Fracturas óseas;Fibrilación Auricular
+20,65.0606436158123,1.6773515901150167,0,Spinning,
+54,83.5589800288974,1.604056076327652,0,Flexiones,Artritis reumatoide;Tendinitis
+68,63.55111265186225,1.6627793223928946,1,Step-ups,Tendinitis;Osteoartritis;Bursitis
+24,47.92676849003222,1.8088748619704185,1,Puente de glúteos,Miastenia grave;Dislocaciones;Esguinces
+38,50.58686343175256,1.888458630593461,0,Band pull-aparts,Esclerosis múltiple
+26,75.72127419992073,1.8543243528272189,1,Side plank,Enfermedad Pulmonar Obstructiva Crónica (EPOC)
+56,78.89583752582223,1.6511150578213725,0,Sprints,
+35,61.43525062343387,1.5880382566710989,0,Tijeras de pierna,Aneurisma cerebral;Lupus eritematoso sistémico;Fibrilación Auricular;Hipertensión arterial
+21,84.57888688166061,1.7140886246911204,0,Band pull-aparts,Osteoartritis;Desgarro de ligamentos
+42,50.0771990659656,1.523156063443715,0,Side plank,Obesidad mórbida;Artritis reumatoide;Aneurisma cerebral
+31,74.00880302029024,1.7323167714184782,1,Correr en cinta,
+67,56.834757003563155,1.685239741370133,0,Mountain climbers,Angina de Pecho;Fibromialgia
+26,65.22245838296762,1.6533963498131756,0,Flexiones,Fibrilación Auricular;Esclerosis lateral amiotrófica;Diabetes tipo 2
+43,75.71098006974621,1.5405296932733203,1,Levantamiento de pierna lateral,Desgarros musculares;Esclerosis lateral amiotrófica;Esguinces
+19,62.09379952074072,1.7513600106569716,0,Face pulls,Hernia de Disco;distrofia muscular;Diabetes tipo 2;Angina de Pecho
+37,69.23166683655262,1.646729916033809,0,Wall sits,Enfermedad Pulmonar Obstructiva Crónica (EPOC);Fibrilación Auricular;Cardiopatías;Miopatía Inflamatoria
+45,90.0943921382166,1.5830083164289712,1,Side plank,Diabetes tipo 1;Cáncer;Dislocaciones
+64,66.34662195715276,1.412773778671835,1,Box jumps,
+24,87.53538168097712,1.6972485094949363,1,Saltos de tijera,
+61,58.05439718013573,1.8772251596669745,0,Correr en cinta,Miopatía Inflamatoria;Parkinson
+25,82.94706266872925,1.866125921454787,1,Tijeras de pierna,Desgarro de ligamentos;Diabetes tipo 2;Fibrilación Auricular;Osteoartritis
+64,96.6235293098685,1.6542903743413728,1,Spinning,Esguinces;Cardiopatías
+52,37.92533249809066,1.639778793963822,0,Tijeras de pierna,Parkinson
+31,63.046571167942844,1.7468774256075024,0,Puente de glúteos,Bursitis
+34,83.6560819077081,1.6001614560811708,0,Caminar,
+53,71.9543192093551,1.7301791899819465,0,Band pull-aparts,Artritis reumatoide;Esclerosis múltiple;Hipertensión arterial;Parkinson
+67,80.56718810056964,1.776608027838469,0,Correr en cinta,
+57,65.94022219926269,1.8226933223884307,1,Saltos de tijera,
+21,76.2988468120935,1.6899845923520047,1,Correr,
+19,72.66484146911881,1.6796326249823035,1,Mountain climbers,Angina de Pecho;Osteoartritis;Diabetes tipo 2;Lupus eritematoso sistémico
+23,92.5167309248971,1.612201741324344,0,Levantamiento de pierna lateral,Cardiopatías;Artritis degenerativa grave;Diabetes tipo 1
+59,78.8163126495182,1.617311964596014,0,Dead bug,Esguinces
+21,80.06403993112804,1.6773521108098473,0,Spinning,Artritis reumatoide
+46,68.821845508163,1.7367365506816177,1,Skaters,Artritis degenerativa grave;Osteoporosis;Miocardiopatía;Diabetes tipo 2
+35,67.6859066389126,1.791358462623325,1,Side plank,distrofia muscular
+43,68.51162718270568,1.6196821049319654,0,Bicicleta estática,Enfermedad Pulmonar Obstructiva Crónica (EPOC)
+61,80.91678213567445,1.849268856895952,1,Face pulls,Bursitis;Fracturas óseas;Parkinson;Desgarro de ligamentos
+51,68.68523278769605,1.672887639895743,0,Plancha,Hipertensión arterial;Asma;Fracturas óseas;Angina de Pecho
+27,79.34662285344619,1.6978632705651564,1,Puente de glúteos,Insuficiencia Cardíaca
+53,106.13101197968157,1.6252788320852176,1,Hip thrust,
+31,88.06687055147539,1.4575759739727059,1,Curls con mancuerna,
+48,70.10964701748239,1.788404539636105,0,Plancha,Fracturas óseas;Esclerosis múltiple;Obesidad mórbida;Colitis ulcerosa
+65,93.01820883245918,1.7736843897092434,1,Spinning,Esguinces;Miopatía Inflamatoria;Angina de Pecho;distrofia muscular
+32,68.87886940467673,1.6718672442881786,1,Correr,
+25,44.428131972332196,1.7066990717224872,0,Band pull-aparts,Aneurisma cerebral;Angina de Pecho;Hernia de Disco
+31,59.87870533623894,1.75159392177041,1,Elevación de talones,Fibromialgia;Aneurisma cerebral;Esclerosis múltiple
+40,46.938121184612164,1.5437454143113456,0,Russian twists,Lupus eritematoso sistémico;Osteoporosis;Tendinitis
+57,69.72729773938038,1.6470947322653704,0,Nadar,Artritis reumatoide
+38,75.27627568784328,1.7794264679621827,0,Flexiones,
+33,100.14655968412924,1.574571057683075,0,Spinning,Esguinces;Diabetes tipo 1
+62,79.90391060646245,1.729355793216663,0,Puente de glúteos,distrofia muscular
+35,71.71349206786704,1.5643418195376595,1,Peso muerto,
+64,87.44108371775233,1.7466429982433527,0,Side plank,
+41,41.832970364881724,1.6964358517702516,0,Escaladora,Miopatía Inflamatoria;Asma;distrofia muscular;Osteoporosis
+43,78.53421837162848,1.538486818409449,0,Yoga - Estiramientos,Colitis ulcerosa;Esclerosis múltiple
+42,86.5629779083045,1.8164739354457171,0,Band pull-aparts,distrofia muscular
+62,52.821206313302376,1.626540842320195,1,Bicicleta estática,Fibromialgia;Miocardiopatía;Lupus eritematoso sistémico
+58,92.15631064810394,1.618974756298562,0,Side plank,
+46,80.07744611241621,1.7200569197230942,1,Band pull-aparts,
+32,68.77068129148797,1.8148637349428716,0,Spinning,
+62,84.49172799159427,1.5984178181021602,1,Plancha,
+18,109.06039286706593,1.706167984984797,0,Spinning,Desgarro de ligamentos;Fibromialgia;Miocardiopatía
+42,77.72799382587743,1.7428816500330573,0,Elevación de talones,Asma;Parkinson;Colitis ulcerosa;Artritis degenerativa grave
+24,78.72330879450504,1.7693105607263144,1,Russian twists,distrofia muscular;Enfermedad Pulmonar Obstructiva Crónica (EPOC);Miopatía Inflamatoria
+26,68.10958650689633,1.7176441555277224,0,Plancha,Insuficiencia Cardíaca
+41,62.25233445802812,1.6632972160916677,1,Band pull-aparts,Esclerosis múltiple;Diabetes tipo 1;Asma
+18,87.45503724816368,1.617240977935128,0,Levantamiento de pierna lateral,Miastenia grave;Fracturas óseas
+61,62.15874261136699,1.7086143883046374,1,Superman,Fibrilación Auricular;distrofia muscular;Colitis ulcerosa;Hipertensión arterial
+25,76.07349355829089,1.5927860988014393,0,Mountain climbers,Hipertensión arterial;Miastenia grave;distrofia muscular
+41,67.83513829852325,1.4078649516505393,0,Flexiones,Esclerosis lateral amiotrófica;Esclerosis múltiple;Cardiopatías;Hernia discal
+28,82.18469738619588,1.7436559804157667,1,Superman,Miocardiopatía;Angina de Pecho;Hipertensión arterial;Lupus eritematoso sistémico
+68,80.00493157930423,1.7903934841086195,0,Superman,Parkinson;Osteoporosis
+34,90.56309916386849,1.4637067564458162,0,Elíptica,
+25,67.3497540171788,1.5990269295290063,0,Caminar,Bursitis;Esclerosis múltiple
+52,70.95187597059943,1.7619154261005197,0,Skaters,Colitis ulcerosa;Desgarros musculares;Esclerosis múltiple
+52,60.31854426326539,1.9057495469711698,0,Peso muerto,
+50,68.33560109885832,1.7020793707675408,0,Correr en cinta,Cáncer;Cardiopatías;Fibrilación Auricular;Artritis degenerativa grave
+22,80.65950739567279,1.6271997058770866,1,Correr,
+59,86.35482924968028,1.681710355889516,1,Elevación de talones,Osteoartritis;Artritis reumatoide;Fibrilación Auricular
+56,61.167520137335615,1.8374876419148185,1,Jump squats,
+58,88.0440888015849,1.6354035820875463,0,Mountain climbers,Insuficiencia Cardíaca;Angina de Pecho;Hernia discal
+45,95.33456788207427,1.6200807993349746,1,Flexiones,Desgarro de ligamentos;Esclerosis lateral amiotrófica
+24,81.20152354835551,1.6517256477817968,0,Nadar,Cardiopatías;Dislocaciones;Desgarros musculares
+26,103.151937188371,1.6046671391741287,0,Extension de tríceps,
+25,63.39316201344641,1.7122670315994795,0,Saltar la cuerda,
+29,56.33017945032874,1.8624678458469561,0,Superman,Esclerosis múltiple;Aneurisma cerebral;Hernia discal;Fibromialgia
+51,48.319196266435824,1.7323079273116029,1,Crunches,Fracturas óseas;Dislocaciones
+50,97.44066467233775,1.6747646497873712,0,Puente de glúteos,Miastenia grave;Artritis reumatoide;Dislocaciones
+65,84.81548484531086,1.6708188731084455,1,Crunches,Fracturas óseas;Parkinson;Miocardiopatía;Hipertensión arterial
+40,74.16622993634317,1.5436809191303342,0,Wall sits,Hernia de Disco;Artritis reumatoide;Lupus eritematoso sistémico
+41,79.19952939479731,1.788310977714716,1,Saltos de tijera,Hernia discal
+54,58.11766429052435,1.6922162802987197,1,Plancha,Cardiopatías;Cáncer;Desgarro de ligamentos;Artritis reumatoide
+52,111.68627969425239,1.6819520086409374,1,Elíptica,Osteoporosis;Miastenia grave;Lupus eritematoso sistémico
+61,76.93831772962841,2.019310756784486,1,Face pulls,Cáncer;Esclerosis lateral amiotrófica;Angina de Pecho
+57,76.64092191907339,1.7298752908365687,1,Levantamiento de pierna lateral,Hernia discal;Miopatía Inflamatoria;Desgarros musculares
+39,85.88649935848038,1.6248208949904814,1,Sentadilla,Hernia discal
+44,82.2151384760507,1.6573642403794455,0,Spinning,Fibromialgia;Enfermedad Pulmonar Obstructiva Crónica (EPOC)
+52,78.35826036418698,1.8148445709196754,1,Correr en cinta,Esclerosis múltiple;Dislocaciones;Parkinson
+18,63.142883168320324,1.7113270410537764,0,Dead bug,distrofia muscular
+52,82.07202535703993,1.5561722021682634,1,Box jumps,
+54,103.2303674471255,1.7919228934575204,0,Spinning,Esclerosis múltiple
+64,95.18130069232467,1.6331855914461006,1,Superman,Lupus eritematoso sistémico
+31,98.89779939959095,1.8873297776217546,1,Elíptica,Angina de Pecho;Bursitis;Miocardiopatía;Miastenia grave
+20,67.33176485353222,1.808004806571465,0,Puente de glúteos,Artritis reumatoide;Esclerosis lateral amiotrófica;Miopatía Inflamatoria
+18,60.15592769612129,1.6552678104341247,1,Zancadas,Obesidad mórbida;Osteoartritis
+22,73.11319619850528,1.8281016361735112,1,Elevación de talones,Esclerosis lateral amiotrófica;Tendinitis
+43,75.83587368433042,1.7067855510527403,1,Skaters,Asma;Diabetes tipo 2;Hipertensión arterial
+31,91.41287277706422,1.785277367512222,0,Escaladora,Dislocaciones
+56,49.613030554277714,1.7484732817294475,1,Levantamiento de pierna lateral,Hipertensión arterial
+44,97.9432547919092,1.6153643345009125,0,Crunches,
+26,72.62988152131516,1.6356450167682537,1,Side plank,Osteoporosis;Fibrilación Auricular;Fracturas óseas;Insuficiencia Cardíaca
+32,68.5967839507887,1.802996081758116,1,Caminar,Desgarro de ligamentos;Angina de Pecho
+32,59.81843437109749,1.666522466789346,0,Yoga - Estiramientos,Fibromialgia;Diabetes tipo 2;Cardiopatías
+43,50.177149922013456,1.6596351536758003,1,Side plank,Artritis reumatoide
+59,87.34755875942872,1.6044877420650647,1,Escaladora,distrofia muscular;Lupus eritematoso sistémico
+30,76.09976950782605,1.742359906559346,0,Correr,
+68,55.65058650388419,1.9062524919243145,1,Russian twists,Tendinitis
+49,55.57381841904576,1.5932467085745727,0,Correr,
+56,69.96322951064808,1.7024219456672758,0,Escaladora,Colitis ulcerosa;Osteoartritis;Esguinces
+66,100.0353228793409,1.8412220555415428,0,Wall sits,Cardiopatías;Miopatía Inflamatoria;Cáncer
+69,71.10612972954593,1.6920358608754285,1,Elevación de talones,Diabetes tipo 2
+49,52.45285570322841,1.7452371796249733,0,Elevación de talones,Aneurisma cerebral
+21,71.31385403871083,1.593760647185312,0,Nadar,Esguinces;Dislocaciones
+47,70.90914645378494,1.742830709720765,1,Dead bug,Asma;Lupus eritematoso sistémico
+54,34.546700355876425,1.681285573499545,0,Abdominales,Enfermedad Pulmonar Obstructiva Crónica (EPOC);Angina de Pecho;Miopatía Inflamatoria
+40,74.18557700223282,1.7985729995679862,1,Plancha,Fracturas óseas;Bursitis;Dislocaciones
+56,71.53598204686983,1.8187386051564751,1,Dead bug,
+62,85.44309547220128,1.9589563642018613,1,Step-ups,Esclerosis lateral amiotrófica;Miopatía Inflamatoria;Hernia discal;Angina de Pecho
+32,102.73434142418017,1.7579633173213576,1,Skaters,
+60,91.89847544321637,1.7325796316582167,0,Abdominales,Tendinitis;Esguinces
+46,70.96666964167754,1.7194384301577335,0,Wall sits,Miocardiopatía;Cardiopatías
+53,58.40211136887494,1.664683370718931,0,Skaters,Diabetes tipo 2;Artritis degenerativa grave;Fracturas óseas
+30,113.60039704874791,1.7338483843461692,0,Levantamiento de pierna lateral,Osteoartritis;Desgarros musculares
+49,75.88827651021732,1.670459858986097,0,Dead bug,Obesidad mórbida;Miopatía Inflamatoria;Asma
+24,75.2089393786942,1.7168460976269613,1,Face pulls,Desgarro de ligamentos;Diabetes tipo 1
+68,74.63812369334995,1.831759753560796,0,Elíptica,Miocardiopatía;Desgarros musculares
+39,77.97127141151782,1.599345743472036,0,Flexiones,Hernia de Disco;Miopatía Inflamatoria;Hipertensión arterial;Diabetes tipo 1
+45,72.83459382114086,1.8139878561129046,0,Wall sits,Colitis ulcerosa;Desgarro de ligamentos;Miopatía Inflamatoria;distrofia muscular
+19,66.39506989679646,1.8317115067339864,1,Flexiones,Desgarro de ligamentos;Desgarros musculares
+59,66.79711588139412,1.688193147300892,1,Nadar,Osteoporosis;Artritis reumatoide;Miopatía Inflamatoria;Miastenia grave
+62,74.50870094676003,1.4878145100991405,0,Band pull-aparts,Desgarro de ligamentos;Esclerosis lateral amiotrófica;Hipertensión arterial
+23,66.84862843299352,1.6392178012905567,1,Side plank,Cardiopatías;Cáncer;Aneurisma cerebral;Desgarro de ligamentos
+45,64.30731325984253,1.829699454656111,0,Curls con mancuerna,Asma;Enfermedad Pulmonar Obstructiva Crónica (EPOC)
+45,76.59645341537845,1.6977131937701118,0,Abdominales,distrofia muscular;Dislocaciones
+61,71.17534173868717,1.6000697767705088,1,Crunches,Hernia de Disco;Miocardiopatía;Fibrilación Auricular;Enfermedad Pulmonar Obstructiva Crónica (EPOC)
+61,97.55989482874033,1.6495225078771782,1,Superman,Artritis reumatoide
+37,35.23545287410482,1.7840620026504552,0,Bicicleta estática,Obesidad mórbida;Artritis reumatoide;Angina de Pecho
+47,91.37260277883692,1.7546733568201378,0,Levantamiento de pierna lateral,Dislocaciones
+28,93.69127788746444,1.6761067900830304,1,Wall sits,Aneurisma cerebral
+45,43.89914651387776,1.6633175588185312,0,Curls con mancuerna,
+42,69.85968608879477,1.6608241850956178,1,Skaters,Obesidad mórbida;Miastenia grave;distrofia muscular
+56,69.42838701006313,1.6077589815501496,0,Crunches,Insuficiencia Cardíaca;Asma;Fibrilación Auricular;Miastenia grave
+50,53.88732457923268,1.8615375689469442,1,Step-ups,Dislocaciones;Diabetes tipo 1;Fracturas óseas
+18,63.33274968613687,1.667767953078866,0,Side plank,Miocardiopatía;Diabetes tipo 2;Bursitis;Hernia discal
+44,58.34136231801257,1.8217158520825496,0,Abdominales,distrofia muscular;Lupus eritematoso sistémico;Fibromialgia
+69,101.28405665135435,1.8521316051922452,1,Superman,Dislocaciones;Diabetes tipo 2;distrofia muscular;Fracturas óseas
+30,89.03517589721191,1.799831089814796,0,Crunches,Angina de Pecho;Esguinces;Desgarros musculares
+58,94.07332642491238,1.656837968728195,0,Wall sits,Esclerosis múltiple;Diabetes tipo 2;Hernia de Disco;Enfermedad Pulmonar Obstructiva Crónica (EPOC)
+20,85.82508096064853,1.7403730090336609,1,Bicicleta estática,Artritis degenerativa grave;Fibrilación Auricular;Dislocaciones;Hernia de Disco
+56,58.06422343174156,1.6975804393609084,0,Face pulls,Aneurisma cerebral;Desgarro de ligamentos
+23,67.1321960058034,1.6096298139269871,0,Band pull-aparts,Artritis degenerativa grave
+25,82.34061841841877,1.7324359281721602,0,Elevación de talones,Hernia discal
+44,56.66808286662082,1.5820960208840198,1,Flexiones,Obesidad mórbida;Insuficiencia Cardíaca
+26,85.69497645258582,1.8187679388461564,1,Kettlebell swings,
+54,71.39511902762797,1.6535382702701606,1,Correr en cinta,Miopatía Inflamatoria;Osteoartritis;Hernia de Disco;Hernia discal
+50,69.37768788675604,1.720115965587284,0,Levantamiento de pierna lateral,Fracturas óseas
+68,85.66439952305237,1.7283287871546142,0,Levantamiento de pierna lateral,Colitis ulcerosa;Esguinces;Hernia discal
+59,81.6639496722906,1.6741095026295922,0,Correr en cinta,Angina de Pecho;Asma;Diabetes tipo 2;Miocardiopatía
+61,69.5855075127138,1.7586693801475275,0,Extension de tríceps,Asma;Obesidad mórbida;Enfermedad Pulmonar Obstructiva Crónica (EPOC)
+41,92.38994705046372,1.6525096343377474,1,Nadar,Lupus eritematoso sistémico
+32,58.78405008600154,1.7871297297457245,0,Abdominales,Miastenia grave;Cáncer;Esclerosis múltiple;Miocardiopatía
+49,84.23903410416395,1.565402031975325,0,Puente de glúteos,Esclerosis múltiple;distrofia muscular;Colitis ulcerosa;Angina de Pecho
+49,83.89651886952575,1.7126379579546411,0,Abdominales,Artritis degenerativa grave;Miopatía Inflamatoria;Hipertensión arterial
+41,70.35680341029014,1.8938928999058284,1,Press Arnold,Aneurisma cerebral
+58,79.89199533363177,1.5999668675394425,0,Puente de glúteos,Cardiopatías;Dislocaciones;Angina de Pecho;Asma
+69,56.23329635422046,1.6322255029475148,0,Dead bug,Miastenia grave;Cáncer
+66,88.86040528810352,1.7513907849658914,0,Tijeras de pierna,Osteoartritis;Cáncer;Lupus eritematoso sistémico
+66,72.22646795335517,1.7179581781939597,0,Puente de glúteos,Aneurisma cerebral;Hernia de Disco
+69,67.1591546922144,1.7350630099273558,0,Levantamiento de pierna lateral,
+29,90.73513838755333,1.7489187130147663,1,Crunches,Fibrilación Auricular;Miocardiopatía;distrofia muscular
+56,64.4348446418586,1.763472146856177,0,Levantamiento de pierna lateral,Hernia de Disco;Parkinson;Bursitis;Miocardiopatía
+19,53.873080554546604,1.8109699841956224,0,Nadar,Hernia de Disco;Dislocaciones
+20,51.65056239714144,1.7409818656928513,0,Superman,Hipertensión arterial;Artritis reumatoide
+66,84.0901492701846,1.6758742345381457,0,Yoga - Estiramientos,Lupus eritematoso sistémico;Insuficiencia Cardíaca;Angina de Pecho;Enfermedad Pulmonar Obstructiva Crónica (EPOC)
+54,55.793559712555755,1.7672573701202732,0,Face pulls,
+66,101.32191272976547,1.8899881934895215,0,Levantamiento de pierna lateral,Miastenia grave;Diabetes tipo 2
+34,43.77105888174417,1.6867366253617426,0,Peso muerto rumano,Hernia discal;Osteoporosis
+66,100.44684552435058,1.6025470695329358,0,Bicicleta estática,Fibrilación Auricular;Bursitis
+19,78.16526200803928,1.8107080669286972,0,Remos con cable,
+19,73.54930332194411,1.6879618836046402,0,Crunches,Insuficiencia Cardíaca;Hernia de Disco;Cáncer;Bursitis
+45,66.82621369786575,1.4827330453985963,1,Mountain climbers,
+40,80.98704171528107,1.7847421677150421,1,Russian twists,Enfermedad Pulmonar Obstructiva Crónica (EPOC);Fracturas óseas
+54,74.43547946362727,1.6464671814046077,1,Plancha,Fibrilación Auricular;Miastenia grave;Hipertensión arterial;Angina de Pecho
+49,91.54952823024783,1.6909466717695838,1,Wall sits,Miastenia grave;Diabetes tipo 1;Miopatía Inflamatoria
+50,76.71341472993059,1.7331980330569015,0,Escaladora,Hernia discal;Lupus eritematoso sistémico
+18,77.25452642192816,1.7190499679779065,1,Yoga - Estiramientos,
+36,69.54581681679217,1.770945181713904,1,Band pull-aparts,Asma;Fibrilación Auricular
+19,74.14581564418398,1.6564513629430155,0,Crunches,Aneurisma cerebral;Hernia discal;Lupus eritematoso sistémico;Osteoartritis
+61,79.6170265333809,1.7513105798176083,1,Dead bug,Miocardiopatía;Desgarros musculares;Desgarro de ligamentos;Fibromialgia
+43,49.347474110150614,1.6740453322416082,1,Peso muerto,Colitis ulcerosa
+49,54.77721866841431,1.7738810480887504,0,Escaladora,
+23,86.14896141034072,1.7615367484013054,0,Escaladora,Hernia discal
+49,77.56298157191912,1.6064561297955404,0,Levantamiento de pierna lateral,Tendinitis;Desgarros musculares
+21,72.24024995470981,1.8085982116175032,1,Elevación de talones,Obesidad mórbida
+28,75.27650899598089,1.6464036554885952,1,Elevación de talones,Fibrilación Auricular;Fracturas óseas;Esclerosis lateral amiotrófica;Angina de Pecho
+34,80.21372558042506,1.7808057798281145,0,Band pull-aparts,Fibrilación Auricular;Tendinitis
+55,66.90360479535957,1.736728731340134,0,Plancha,Lupus eritematoso sistémico;Tendinitis
+41,63.32542911896531,1.8838183676795122,1,Dead bug,Miopatía Inflamatoria;Fracturas óseas;Cardiopatías
+22,77.93767882646523,1.6776534017628146,0,Puente de glúteos,
+69,60.32440833577452,1.6650683203881802,1,Band pull-aparts,Hernia discal
+51,81.12379133571707,1.6980580394112268,0,Crunches,Cáncer
+23,49.46124593643239,1.6696820217165724,0,Mountain climbers,Angina de Pecho;Dislocaciones
+39,90.43733455988465,1.779994190194205,1,Puente de glúteos,
+28,82.08896223619564,1.538368939156341,0,Caminar,Fibrilación Auricular
+65,78.84044601470814,1.5946317580853646,0,Side plank,Tendinitis;Cáncer;Fibromialgia
+33,89.74036475918271,1.5932197078420807,0,Mountain climbers,Cáncer;Colitis ulcerosa;Desgarro de ligamentos
+50,99.98211666693865,1.7950307591973576,1,Puente de glúteos,Enfermedad Pulmonar Obstructiva Crónica (EPOC)
+26,90.21555097527195,1.8710613372581926,0,Push press,
+23,47.38688653002532,1.6895550781462527,0,Spinning,Fracturas óseas;Miastenia grave;distrofia muscular
+33,55.806345498964475,1.6831178276809988,0,Plancha,Artritis degenerativa grave;Asma;Hernia de Disco
+46,65.62772133456482,1.707005216311318,0,Skaters,Fibrilación Auricular;Lupus eritematoso sistémico;Enfermedad Pulmonar Obstructiva Crónica (EPOC)
+20,75.3913657531625,1.816187830260819,0,Hip thrust,Asma
+37,82.76488530703685,1.6072646865809426,0,Superman,Cardiopatías;Artritis reumatoide
+53,64.11384280269802,1.7238368982734784,1,Superman,Insuficiencia Cardíaca;Angina de Pecho;Artritis degenerativa grave;Esclerosis lateral amiotrófica
+36,77.80150146715617,1.797519762978243,1,Band pull-aparts,Hernia discal;Fibrilación Auricular
+43,63.66925601470016,1.7501094169939844,0,Abdominales,Asma;Esclerosis múltiple
+20,65.82723295512078,1.7189581616598744,1,Correr en cinta,Osteoartritis;Colitis ulcerosa;Parkinson;Tendinitis
+36,53.900083547276665,1.8001046092567141,1,Escaladora,Fibrilación Auricular
+37,61.151501308336435,1.4296767707000761,0,Mountain climbers,Artritis reumatoide;Hernia de Disco
+49,54.724730915754996,1.7677875319530907,1,Elevación de talones,Obesidad mórbida;Miopatía Inflamatoria
+24,60.36190120534001,1.6345924316872575,1,Saltar la cuerda,
+69,90.80462694911759,1.5169367103143543,1,Correr en cinta,Cardiopatías
+58,60.759016667520854,1.751120259952498,1,Spinning,Aneurisma cerebral;Desgarros musculares;Fibromialgia
+50,114.48573097256086,1.8373658545162956,1,Plancha,
+57,82.39976851321333,1.6862551485372308,1,Side plank,Diabetes tipo 1;Miastenia grave;Cardiopatías
+56,77.77254185542311,1.795287454720294,1,Nadar,Aneurisma cerebral;Parkinson
+35,62.1246332972818,1.8612278257988646,1,Superman,Miastenia grave;Lupus eritematoso sistémico
+57,85.50464819113488,1.8314914453584046,0,Curls con mancuerna,Artritis degenerativa grave
+18,66.36543260643339,1.8639964529371393,0,Correr en cinta,Lupus eritematoso sistémico;Miopatía Inflamatoria
+28,76.83014721968043,1.774212749107189,1,Hip thrust,
+45,113.40126807403192,1.7075433638901591,1,Tijeras de pierna,Miopatía Inflamatoria
+42,73.55910150413025,1.5398034188102832,0,Yoga - Estiramientos,Asma;Tendinitis
+67,92.23909989428513,1.6753937511870052,1,Russian twists,Miocardiopatía;Artritis degenerativa grave;Hernia discal
+40,64.45235362311169,1.6156753404683808,1,Puente de glúteos,Miastenia grave;Bursitis;Tendinitis;Dislocaciones
+48,74.47517264254557,1.9170942717497814,0,Russian twists,distrofia muscular
+47,101.56200953453265,1.6824114187567663,0,Wall sits,Cardiopatías;Fibromialgia;Hipertensión arterial
+59,65.5954941331835,1.7123204806784484,0,Front squats,Hernia discal
+52,102.18672836995393,1.7551485376040468,1,Spinning,Diabetes tipo 2;Artritis reumatoide;distrofia muscular;Osteoartritis
+24,85.61627903183214,1.7043602446372452,1,Elevación de talones,Miastenia grave;Desgarros musculares;Cáncer
+33,66.56299836158598,1.8695051040430752,0,Skaters,
+43,84.48611608583282,1.6377350638265549,0,Kettlebell swings,Osteoartritis;Obesidad mórbida
+65,89.58831674440094,1.7194607455237243,1,Band pull-aparts,
+69,84.32714943325794,1.6257529414301952,0,Yoga - Estiramientos,Aneurisma cerebral;Esclerosis múltiple
+66,51.446629201643155,1.5679977488779293,1,Step-ups,Artritis reumatoide;Cardiopatías;Fibromialgia
+19,64.09294236262697,1.6388230909094714,1,Band pull-aparts,
+18,71.28722046672743,1.6962963202951586,0,Step-ups,Asma;Miocardiopatía;Parkinson;Esclerosis lateral amiotrófica
+65,73.8834985634993,1.657069777548274,0,Abdominales,Dislocaciones
+29,84.31008146326018,1.6307579020126144,1,Yoga - Estiramientos,Desgarro de ligamentos;Artritis degenerativa grave;Miastenia grave
+22,77.66551501399881,1.5593682536328166,0,Face pulls,Cáncer
+54,54.96983461934848,1.6916894427371305,0,Abdominales,distrofia muscular;Dislocaciones;Artritis reumatoide
+49,80.70296776508945,1.5495279625968998,0,Yoga - Estiramientos,Insuficiencia Cardíaca;Bursitis;Hernia de Disco;Aneurisma cerebral
+26,84.15878617925735,1.7760055963689603,0,Wall sits,Fracturas óseas;Diabetes tipo 1;Tendinitis;Artritis degenerativa grave
+58,83.3968567189656,1.7082439752934502,1,Elíptica,Diabetes tipo 2;Lupus eritematoso sistémico
+52,91.21171088331933,1.5542448500535069,1,Superman,Aneurisma cerebral;Desgarros musculares;Cardiopatías;Bursitis
+36,87.50883231823356,1.6690790922950136,1,Skaters,Hernia de Disco
+65,81.88770118842655,1.6247843594409417,1,Side plank,Miastenia grave;Diabetes tipo 2;Desgarro de ligamentos;Dislocaciones
+33,73.94751432812029,1.731917451041918,0,Abdominales,Hernia de Disco
+20,50.085585997260125,1.8340450446023144,0,Correr en cinta,Diabetes tipo 2
+37,81.44427328698879,1.5124827530354255,1,Russian twists,Diabetes tipo 2;Esclerosis múltiple;Hernia discal;Colitis ulcerosa
+41,78.11531530744666,1.7115026079147417,1,Elevación de talones,Dislocaciones
+50,79.0736825579306,1.6839867204433359,0,Elevación de talones,distrofia muscular;Asma;Parkinson
+41,55.84877136269536,1.7671340076450466,1,Spinning,Bursitis;Hernia discal
+69,58.784151893876064,1.7213196628237688,1,Levantamiento de pierna lateral,Miastenia grave;Esguinces;Bursitis
+28,90.79729279999356,1.624803066826118,0,Wall sits,Esclerosis múltiple;Aneurisma cerebral;Cardiopatías
+66,74.40667269215018,1.6680946064333382,1,Flexiones,Colitis ulcerosa
+25,85.22251046058936,1.6203974143196511,0,Yoga - Estiramientos,Fibrilación Auricular
+53,75.42477564195691,1.8076007138598598,0,Superman,Desgarro de ligamentos;Miastenia grave;Enfermedad Pulmonar Obstructiva Crónica (EPOC);Artritis reumatoide
+55,75.44634209243618,1.7021311648671942,1,Spinning,Asma;Hipertensión arterial;Fibrilación Auricular
+57,89.07425708963997,1.8901190685753007,0,Band pull-aparts,
+37,67.25932907673939,1.6939339186185378,1,Face pulls,Esclerosis lateral amiotrófica;Obesidad mórbida;Cáncer;Insuficiencia Cardíaca
+52,76.44181165411474,1.6291593233089536,0,Bicicleta estática,Artritis reumatoide;Asma;Angina de Pecho
+65,68.06587066942436,1.5486285607387171,1,Curls con mancuerna,Enfermedad Pulmonar Obstructiva Crónica (EPOC);Aneurisma cerebral
+42,68.48255658851527,1.5196860323744055,1,Escaladora,Diabetes tipo 1;Asma;Miocardiopatía;Osteoporosis
+52,70.3624181479704,1.541586405699451,1,Tijeras de pierna,Artritis reumatoide;Dislocaciones;Cardiopatías;Hernia de Disco
+42,78.3320065745057,1.7267126651011484,0,Face pulls,Miocardiopatía
+46,67.81877067504784,1.7508725023229934,0,Tijeras de pierna,
+35,93.83634188360281,1.5418809297967866,1,Puente de glúteos,
+63,61.580890466707444,1.7895038314076115,0,Side plank,Desgarro de ligamentos
+35,72.19692533757961,1.651693894831656,1,Crunches,Cáncer;Dislocaciones;Miastenia grave;Artritis degenerativa grave
+19,68.40403412588738,1.7146793011985548,1,Levantamiento de pierna lateral,Insuficiencia Cardíaca;Esguinces
+52,96.704668265306,1.8612220628255425,0,Kettlebell swings,
+33,77.94832164767362,1.7896839315865531,1,Escaladora,Diabetes tipo 1;Dislocaciones
+58,90.47766809202952,1.6731469352094168,0,Tijeras de pierna,Angina de Pecho
+53,52.716594404445416,1.6108807774584712,1,Levantamiento de pierna lateral,Desgarros musculares;Esguinces;Miopatía Inflamatoria
+50,79.00575398803889,1.4848184598670695,0,Spinning,Desgarros musculares;Artritis reumatoide;Angina de Pecho
+21,88.34446193435156,1.628084668075758,1,Puente de glúteos,Angina de Pecho;Bursitis
+50,76.23425983913137,1.6788869761172305,1,Flexiones,Desgarro de ligamentos;Lupus eritematoso sistémico;Osteoartritis;Miocardiopatía
+31,90.98220562598027,1.6012820472848817,0,Dead bug,Cáncer;Obesidad mórbida;Aneurisma cerebral
+38,67.24067324849442,1.6868743032907694,1,Face pulls,Enfermedad Pulmonar Obstructiva Crónica (EPOC);Hipertensión arterial;Asma
+65,96.1402116027837,1.7076851882958768,1,Band pull-aparts,Osteoartritis;Osteoporosis
+37,109.48347185428875,1.677514401819192,0,Zancadas,
+25,69.55742159340511,1.634999741917654,1,Puente de glúteos,Osteoartritis;Artritis degenerativa grave
+24,68.31746217898842,1.7168654671966728,0,Russian twists,Asma
+20,96.80076715676552,1.744194064956941,1,Plancha,Esclerosis lateral amiotrófica;Lupus eritematoso sistémico;Miastenia grave;Miopatía Inflamatoria
+34,98.69358218596068,1.5909600922557154,0,Band pull-aparts,Osteoporosis;Insuficiencia Cardíaca;Parkinson;Cardiopatías
+50,67.15709959270097,1.841093237974627,1,Tijeras de pierna,Insuficiencia Cardíaca;Enfermedad Pulmonar Obstructiva Crónica (EPOC);Bursitis;Desgarros musculares
+65,68.69719774356214,1.6901411867715739,1,Levantamiento de pierna lateral,Insuficiencia Cardíaca;Desgarros musculares;Artritis reumatoide;Fibromialgia
+29,70.7732308670924,1.7018849622944847,1,Superman,Asma;distrofia muscular;Tendinitis
+68,54.833242334485846,1.7708214423256556,0,Flexiones,
+39,61.220220802737025,1.72332161312635,0,Russian twists,
+39,59.93788849871898,1.7953136633913245,0,Caminar,Bursitis;Tendinitis;Desgarros musculares
+63,63.483036523438074,1.7287124165201824,0,Flexiones,Parkinson;Hernia discal
+47,74.47972668919829,1.6387562625359562,1,Step-ups,Artritis degenerativa grave;distrofia muscular;Fibromialgia
+55,78.5132209880478,1.7361503525206101,1,Skaters,
+55,98.25750739221115,1.5856273792679338,0,Correr en cinta,Artritis reumatoide;Esguinces;Insuficiencia Cardíaca;Esclerosis lateral amiotrófica
+62,60.024689388918134,1.7108559705776523,0,Russian twists,Bursitis;Fibromialgia;Aneurisma cerebral;Parkinson
+68,89.76483597714875,1.6966770009355538,0,Puente de glúteos,Esguinces;Hernia de Disco;Enfermedad Pulmonar Obstructiva Crónica (EPOC);Dislocaciones
+25,71.79016733661737,1.679188314272746,1,Yoga - Estiramientos,
+44,74.2580443552135,1.6871462488561069,0,Spinning,Insuficiencia Cardíaca;Colitis ulcerosa;Esclerosis múltiple
+44,85.12229238249905,1.511815095450236,0,Mountain climbers,Insuficiencia Cardíaca;distrofia muscular;Desgarro de ligamentos
+51,58.159169676565526,1.645127509225904,1,Flexiones,Diabetes tipo 2;Artritis reumatoide
+38,80.73614619276076,1.7092844901141113,1,Elevación de talones,Tendinitis;Desgarros musculares;distrofia muscular
+47,77.49678312319584,1.71598563919974,0,Spinning,Fracturas óseas;Diabetes tipo 2;Diabetes tipo 1
+50,82.38676896012224,1.597232485907404,1,Abdominales,Miocardiopatía
+45,79.33752965861727,1.82657078408647,0,Levantamiento de pierna lateral,
+64,111.82950209866341,1.61338251517855,1,Plancha,Fibrilación Auricular;Hipertensión arterial;Artritis reumatoide;Fracturas óseas
+50,65.43390023623026,1.7969457200526737,0,Escaladora,Esclerosis múltiple;Osteoartritis;Parkinson;Insuficiencia Cardíaca
+22,67.03504567497274,1.7427194361871685,0,Spinning,distrofia muscular;Fibrilación Auricular;Angina de Pecho
+65,65.65289210362853,1.6353772690156196,0,Side plank,Fibromialgia;Miopatía Inflamatoria;Diabetes tipo 1;Bursitis
+36,66.66784321259618,1.8775310892609511,0,Skaters,Artritis reumatoide;Osteoartritis;Angina de Pecho;Hernia de Disco
+21,65.43919309040223,1.580636316824352,1,Flexiones,Hernia de Disco;Bursitis
+52,92.83524796661328,1.7919154173610001,1,Bicicleta estática,distrofia muscular;Angina de Pecho;Asma;Diabetes tipo 2
+66,96.30756371984782,1.8000582318042977,1,Press de banca,
+34,66.43880559375785,1.6329379790923355,1,Crunches,Miocardiopatía
+61,62.51466640343657,1.839246530006433,0,Escaladora,Esclerosis múltiple;Esguinces;Esclerosis lateral amiotrófica;Fibromialgia
+45,82.07123334579606,1.6749953485401048,0,Elevación de talones,
+47,66.71665433578544,1.7288693629279857,1,Crunches,Lupus eritematoso sistémico;Osteoartritis;Fibrilación Auricular
+46,84.49397726633266,1.726032183877122,1,Superman,Cáncer;Miastenia grave
+63,78.04384531276949,1.6865691258529452,1,Superman,Miopatía Inflamatoria;Artritis degenerativa grave;Enfermedad Pulmonar Obstructiva Crónica (EPOC);Obesidad mórbida
+23,52.26383827504152,1.7810808273159782,1,Band pull-aparts,Asma;Desgarros musculares;Esclerosis lateral amiotrófica
+52,98.21257801995093,1.7793488720552213,1,Caminar,Dislocaciones;Angina de Pecho
+58,101.93816509643283,1.5251468026761819,0,Push press,
+54,65.80816964273421,1.8304340242878152,0,Elevación de talones,Esclerosis lateral amiotrófica;Diabetes tipo 1
+41,69.18447660096024,1.5337508011964325,0,Plancha,Obesidad mórbida;Parkinson;Enfermedad Pulmonar Obstructiva Crónica (EPOC);Artritis degenerativa grave
+46,79.28798086087357,1.8032546204341657,1,Side plank,Desgarro de ligamentos;Esclerosis lateral amiotrófica
+66,80.01685184980538,1.8126705136827583,1,Plancha,Artritis degenerativa grave;Osteoartritis;Cáncer
+63,84.87816409009245,1.59090335697848,1,Tijeras de pierna,Lupus eritematoso sistémico
+48,105.15306808149525,1.6589185712045416,1,Dead bug,Fibrilación Auricular;Artritis degenerativa grave;Fracturas óseas;Osteoartritis
+52,72.34579158758926,1.5894295331514063,0,Russian twists,Aneurisma cerebral;Obesidad mórbida;Miocardiopatía;Desgarros musculares
+50,63.02554133192319,1.6785078969711265,0,Correr en cinta,Osteoporosis
+69,54.31021157978209,1.6691965715814259,1,Remo con barra,Obesidad mórbida
+38,64.0360494008712,1.777966053226934,0,Elevación de talones,Angina de Pecho;Osteoporosis;Osteoartritis
+49,74.50309540689304,1.8310308746119608,0,Puente de glúteos,Desgarros musculares
+40,101.91836795276681,1.8395683810789956,1,Saltar la cuerda,
+50,67.23583051445743,1.6437831973421697,1,Face pulls,Fibromialgia;Esclerosis múltiple;Diabetes tipo 1
+20,78.35681927458347,1.6790778126255472,1,Spinning,Dislocaciones;Enfermedad Pulmonar Obstructiva Crónica (EPOC);Fibrilación Auricular
+35,74.75365655890872,1.531656180777905,1,Nadar,
+42,92.82589910172126,1.6194129933503811,1,Escaladora,Miocardiopatía
+59,112.90398638810433,1.7964851633097458,1,Superman,Lupus eritematoso sistémico;Esclerosis múltiple;Diabetes tipo 2;Colitis ulcerosa
+48,67.03696840619519,1.8615582823548231,0,Yoga - Estiramientos,
+20,67.65840836222667,1.5765651128120077,0,Wall sits,Hipertensión arterial;Artritis degenerativa grave;Diabetes tipo 1;Parkinson
+57,90.66241315603608,1.6407535740847106,1,Crunches,Desgarro de ligamentos;Esclerosis múltiple
+63,85.22837234439467,1.6973594243041072,0,Tijeras de pierna,Hernia discal
+41,102.7006098860405,1.7280161158819607,1,Skaters,Diabetes tipo 1;Osteoartritis;Hernia de Disco;Artritis degenerativa grave
+67,83.75892277988946,1.6190396480078353,1,Superman,Miocardiopatía
+49,69.61061863819411,1.742406104446409,1,Crunches,Artritis degenerativa grave;Osteoartritis;Insuficiencia Cardíaca;Artritis reumatoide
+64,83.85982246038463,1.6526160652929083,1,Zancadas,
+39,91.63055370874362,1.698554772912172,0,Correr en cinta,Hernia discal;Fracturas óseas;Miocardiopatía
+40,87.30723271796046,1.7546284248003698,1,Elíptica,Tendinitis;Hernia discal
+19,82.60911046660947,1.7006422269810937,0,Press Arnold,Diabetes tipo 2
+44,91.00012034383731,1.656361410947343,1,Plancha,
+59,92.5394338566851,1.689039019607417,1,Plancha,Miopatía Inflamatoria;Insuficiencia Cardíaca;Angina de Pecho;Cardiopatías
+19,95.7323848655629,1.6911637040794665,1,Escaladora,distrofia muscular
+43,84.73064831384464,1.6629988970117873,0,Elevación de talones,Fracturas óseas;Hernia discal;Cáncer
+34,72.49322879524719,1.6741203937332898,1,Skaters,
+57,77.20070529649985,1.8598647170504716,1,Dead bug,Insuficiencia Cardíaca
+50,93.09763449762535,1.756091944794124,1,Nadar,Miocardiopatía;Fibromialgia;Osteoporosis;Miastenia grave
+26,62.74596493519146,1.670451968197084,0,Curls con mancuerna,Enfermedad Pulmonar Obstructiva Crónica (EPOC);Obesidad mórbida
+60,80.53009963309351,1.7696954404510734,0,Caminar,Osteoartritis;Artritis degenerativa grave
+65,69.09991781508958,1.6666180510243989,0,Remo con barra,Bursitis
+56,75.43117234402226,1.8173124637586642,1,Russian twists,Asma;Miopatía Inflamatoria
+46,94.17677793910948,1.7369642192198094,0,Face pulls,Hipertensión arterial
+59,77.86648602029855,1.689269785599577,1,Step-ups,Aneurisma cerebral;Osteoporosis;Cardiopatías;Desgarro de ligamentos
+43,75.69654822234223,1.7447716925810277,0,Face pulls,
+52,54.60215788530121,1.54291238479315,0,Saltar la cuerda,
+67,86.19380349040831,1.5873232531090193,1,Press militar,
+42,84.68226271711613,1.5806074993600945,0,Russian twists,Esguinces;Fracturas óseas;Artritis reumatoide;Miopatía Inflamatoria
+41,107.4488208495819,1.7142943094763707,1,Remo con barra,Asma
+30,70.38332647570499,1.873251499948509,1,Caminar,Diabetes tipo 2;Desgarro de ligamentos;Tendinitis;Diabetes tipo 1
+24,78.28725491495908,1.9231300146192631,0,Spinning,Esclerosis lateral amiotrófica
+53,78.74075525566133,1.7638051101440757,1,Press militar,Diabetes tipo 1;Bursitis;Colitis ulcerosa
+62,98.66179919645211,1.7500844474944457,1,Correr en cinta,Colitis ulcerosa;Artritis reumatoide
+37,73.57056701419572,1.519894226584726,0,Curls con mancuerna,Colitis ulcerosa
+18,79.18532288655508,1.6457326200265978,0,Skaters,Fracturas óseas
+25,84.11844764574809,1.621221624809176,1,Side plank,Hernia de Disco
+63,77.79913684734537,1.6379152401748884,0,Front squats,
+33,68.30349578174207,1.683185618141521,1,Levantamiento de pierna lateral,Miopatía Inflamatoria
+31,77.91134989347461,1.652790942230287,1,Wall sits,Cardiopatías;Insuficiencia Cardíaca;Osteoartritis;Esguinces
+29,91.10447624789659,1.5020700189624212,0,Escaladora,Diabetes tipo 1;Desgarros musculares;Tendinitis;Enfermedad Pulmonar Obstructiva Crónica (EPOC)
+68,59.602270508834096,1.7747910256117534,0,Dead bug,Artritis reumatoide;Miopatía Inflamatoria;Fibrilación Auricular;Esclerosis múltiple
+40,76.99454511220314,1.5927256974260193,0,Puente de glúteos,Asma;Enfermedad Pulmonar Obstructiva Crónica (EPOC);Angina de Pecho;Miopatía Inflamatoria
+32,64.4981877759124,1.7239246864111148,0,Russian twists,Miastenia grave
+45,92.92569943387264,1.9074082669749974,1,Step-ups,Cáncer;Esguinces;Miastenia grave
+51,52.15219642824338,1.6080615408413577,1,Superman,Fracturas óseas
+19,66.61617229092617,1.446971247725367,0,Nadar,Esclerosis lateral amiotrófica;Enfermedad Pulmonar Obstructiva Crónica (EPOC);Parkinson
+49,80.65817812596781,1.6713995778119888,0,Tijeras de pierna,Hernia discal;Osteoartritis;Diabetes tipo 1;Dislocaciones
+40,98.4828604385151,1.810095963499857,1,Tijeras de pierna,distrofia muscular;Desgarros musculares;Lupus eritematoso sistémico
+39,74.01374608390519,1.8958347454220594,1,Escaladora,Esguinces;Parkinson;Diabetes tipo 2;Tendinitis
+68,66.67200709960203,1.5770450405547582,1,Yoga - Estiramientos,Hernia discal;Desgarro de ligamentos;Esclerosis lateral amiotrófica
+42,103.21735604160885,1.749669922323652,1,Side plank,Insuficiencia Cardíaca;Miastenia grave;Colitis ulcerosa;distrofia muscular
+39,53.279791493756335,1.6534689543219947,0,Escaladora,Hipertensión arterial;Asma;distrofia muscular;Cardiopatías
+39,42.017910650698774,1.6894051645695864,1,Wall sits,Lupus eritematoso sistémico;Enfermedad Pulmonar Obstructiva Crónica (EPOC);Artritis degenerativa grave
+66,81.60021675079999,1.9644343347017035,1,Puente de glúteos,Hipertensión arterial;Obesidad mórbida;Hernia discal
+69,67.46918663471084,1.5497029671604845,0,Caminar,Esclerosis múltiple
+59,59.681507743039305,1.7253739661494574,1,Superman,Miocardiopatía;Cardiopatías;Cáncer
+23,85.6253467094903,1.7467693171765433,1,Nadar,Fibromialgia;Insuficiencia Cardíaca
+32,78.65701070656799,1.8085786324939346,0,Bicicleta estática,Insuficiencia Cardíaca;Desgarro de ligamentos
+60,66.53882053894907,1.7097983153470895,0,Bicicleta estática,
+54,55.79543401993658,1.7308050539504103,0,Bicicleta estática,Miastenia grave;Miopatía Inflamatoria;Aneurisma cerebral
+50,88.08685992420217,1.6608351432578208,1,Flexiones,Desgarro de ligamentos;Lupus eritematoso sistémico;Diabetes tipo 2;Fracturas óseas
+25,84.75301766937991,1.7269126941245108,1,Flexiones,Fibrilación Auricular
+61,73.51236204330925,1.665680772450259,0,Russian twists,Tendinitis;Diabetes tipo 2;Hernia discal
+61,102.69955494071499,1.7621571889856051,0,Flexiones,Esguinces
+22,58.94872850510771,1.6630389663956366,1,Dead bug,
+56,52.117122436128916,1.7377100393902185,0,Wall sits,
+21,64.62137895178134,1.6970737186315021,0,Elevación de talones,Aneurisma cerebral
+23,74.31620975466754,1.8126050250772168,0,Elevación de talones,Asma;Osteoartritis;Miastenia grave;Miocardiopatía
+62,78.65009173984038,1.6948606276411513,1,Abdominales,distrofia muscular;Hipertensión arterial
+49,71.38145913215506,1.5226967531793119,1,Russian twists,Asma;Desgarro de ligamentos;Artritis degenerativa grave;Artritis reumatoide
+69,80.28083094771445,1.8261921500713991,1,Press militar,
+47,56.22690863714334,1.6094267699137381,1,Mountain climbers,
+64,96.65646906109889,1.634623366135118,1,Puente de glúteos,Angina de Pecho;Desgarros musculares;Hernia discal;Aneurisma cerebral
+52,73.76773232411146,1.6404338705956507,1,Elíptica,
+57,91.75943747382192,1.8374438093170817,0,Spinning,Aneurisma cerebral;Desgarro de ligamentos;Lupus eritematoso sistémico
+69,80.14088019566556,1.4864325786021304,1,Mountain climbers,
+33,81.85129828730676,2.0137748533659994,1,Saltos de tijera,
+30,83.54650920348305,1.8056056809066052,0,Kettlebell swings,Bursitis;Osteoartritis;Osteoporosis
+67,81.71562840025973,1.722323891412916,1,Remos con cable,
+59,84.64084139801315,1.6945105999383714,1,Levantamiento de pierna lateral,Miastenia grave
+47,94.93728795198646,1.7285554074857656,0,Caminar,Diabetes tipo 1;Esclerosis lateral amiotrófica;Artritis degenerativa grave
+36,77.94781754552206,1.7521122428379339,0,Plancha,Hipertensión arterial
+34,85.63505636382769,1.7645215585950056,0,Elevación de talones,Colitis ulcerosa;Parkinson;Fracturas óseas
+36,73.6539645856916,1.7555604466003447,1,Bicicleta estática,Esguinces
+45,96.6017582317421,1.7089580681255248,0,Puente de glúteos,Bursitis;Fibrilación Auricular;Obesidad mórbida;Hernia discal
+43,64.85411546911095,1.6802661579692673,1,Abdominales,Parkinson
+54,102.01410649366224,1.6848726716346487,1,Puente de glúteos,Tendinitis;Angina de Pecho;Enfermedad Pulmonar Obstructiva Crónica (EPOC);Artritis reumatoide
+43,74.39763074033485,1.6805091719647318,1,Step-ups,Cáncer;Angina de Pecho
+40,53.53837346822928,1.8133770096867063,1,Wall sits,Enfermedad Pulmonar Obstructiva Crónica (EPOC)
+26,76.92156622366184,1.759355672228086,0,Mountain climbers,
+29,64.78422513787679,1.405961136533572,0,Yoga - Estiramientos,distrofia muscular
+18,87.60965323483086,1.765590077652976,1,Escaladora,
+18,65.21064031046413,1.7194736194718774,0,Step-ups,Bursitis;Asma;Esclerosis lateral amiotrófica
+64,68.3072485017783,1.6981291243554102,1,Dead bug,Obesidad mórbida;Fibromialgia;Miopatía Inflamatoria;Esclerosis lateral amiotrófica
+51,46.65688903581703,1.6611481546911113,1,Mountain climbers,
+49,68.21540521126386,1.8124112719986014,1,Nadar,Bursitis
+65,38.64181010056565,1.7947526462122858,0,Caminar,Miastenia grave;Hernia de Disco;Artritis reumatoide
+42,51.24145764771415,1.6227122332176391,1,Spinning,Hipertensión arterial;Desgarros musculares;Fibromialgia;Angina de Pecho
+57,86.40621984216446,1.7407052287124534,1,Abdominales,
+62,86.78700237976248,1.6028343265458713,0,Nadar,Dislocaciones;Bursitis;Enfermedad Pulmonar Obstructiva Crónica (EPOC);Miocardiopatía
+18,81.38186342677447,1.562038183521107,0,Bicicleta estática,Colitis ulcerosa;Diabetes tipo 2;Cardiopatías
+33,60.495357853061805,1.6373282775410034,0,Step-ups,Artritis reumatoide
+56,74.2843296578703,1.7862393472382758,0,Step-ups,Lupus eritematoso sistémico;Hernia discal;Esclerosis múltiple;Colitis ulcerosa
+22,74.94596191364147,1.7953125045376086,1,Bicicleta estática,Obesidad mórbida;distrofia muscular;Fracturas óseas;Esguinces
+39,57.624529662111854,1.7513085420097292,0,Hip thrust,
+46,97.55097452650726,1.7725095786847997,1,Crunches,Aneurisma cerebral;Bursitis
+20,88.16043435863507,1.7516178287114959,0,Levantamiento de pierna lateral,Parkinson
+29,71.68553739255503,1.6358518404777047,0,Wall sits,Enfermedad Pulmonar Obstructiva Crónica (EPOC)
+43,75.40328758491796,1.7431922544673941,0,Skaters,Parkinson;Artritis reumatoide;Diabetes tipo 2
+33,78.12574211921329,1.7800409525227683,0,Flexiones,Colitis ulcerosa;Angina de Pecho;Asma
+68,44.37397697363564,1.7754291329813574,0,Dominadas,
+54,71.29233926219105,1.8188913371474642,0,Sentadilla,
+39,64.77023628003302,1.7708303847201063,1,Side plank,Miocardiopatía;Hernia discal;Colitis ulcerosa
+46,59.975699851576266,1.7351448207541582,0,Front squats,
+31,70.78349560671067,1.8070150238316427,0,Face pulls,Angina de Pecho;Diabetes tipo 2;Parkinson
+45,101.96529790274283,1.697347874075094,0,Superman,Hipertensión arterial
+22,84.61264291900514,1.611812534877228,0,Band pull-aparts,Tendinitis;Hernia discal;Miastenia grave;Aneurisma cerebral
+64,66.43231515325805,1.6836933036056236,1,Russian twists,Artritis degenerativa grave;Miastenia grave;Colitis ulcerosa;Osteoporosis
+66,83.58874172034238,1.625509735519355,0,Correr en cinta,
+47,95.99033154879004,1.6324821725025618,0,Skaters,Osteoartritis;Dislocaciones
+63,88.86950524369153,1.685548132928448,0,Bicicleta estática,Hernia de Disco;Dislocaciones;Cáncer;Colitis ulcerosa
+69,75.89445554880261,1.620758007900004,0,Remo con barra,
+22,65.2959483344164,1.669203847036096,1,Russian twists,Diabetes tipo 1;Fibrilación Auricular
+29,85.47334970420386,1.5106385333046215,0,Levantamiento de pierna lateral,Bursitis
+33,80.90228078132624,1.7213293707372939,1,Levantamiento de pierna lateral,Artritis degenerativa grave;Diabetes tipo 2;Enfermedad Pulmonar Obstructiva Crónica (EPOC);Lupus eritematoso sistémico
+43,88.42789830041599,1.7001205475362224,0,Wall sits,Esclerosis múltiple;Osteoartritis
+43,84.52757702522955,1.618291136893181,1,Correr en cinta,Asma;Parkinson;distrofia muscular;Enfermedad Pulmonar Obstructiva Crónica (EPOC)
+65,90.74329072979003,1.7659245668432404,1,Escaladora,
+38,66.97147182659148,1.7937570137626557,0,Step-ups,Diabetes tipo 2
+56,94.76091098451488,1.5392440135631025,0,Escaladora,Cáncer;Insuficiencia Cardíaca
+53,77.963994070386,1.6237275221433785,1,Skaters,Esclerosis lateral amiotrófica
+50,106.12891308937898,1.6230857650212702,1,Abdominales,Fibrilación Auricular
+47,64.66218272865649,1.6060096898891134,0,Superman,Insuficiencia Cardíaca;Desgarro de ligamentos;Artritis degenerativa grave;Aneurisma cerebral
+54,101.03945704747875,1.7829474841931747,1,Plancha,Fibrilación Auricular
+40,77.96866175193972,1.6806173861227196,1,Russian twists,Fracturas óseas;Esclerosis lateral amiotrófica;Parkinson;Fibromialgia
+27,65.22872994578327,1.673548515868939,1,Plancha,Esclerosis lateral amiotrófica;Obesidad mórbida;Hernia discal
+22,67.74171248918518,1.4996137635593245,0,Correr en cinta,Esclerosis lateral amiotrófica;Lupus eritematoso sistémico;Desgarros musculares;Osteoporosis
+53,70.1947903770852,1.7635418030209227,1,Flexiones,Miastenia grave
+51,81.36248919602875,1.5760741605146527,1,Face pulls,Hernia de Disco
+69,82.8425323205325,1.7059932630266328,1,Face pulls,Enfermedad Pulmonar Obstructiva Crónica (EPOC);Cáncer;Fibrilación Auricular
+48,66.39449994092132,1.727737693795819,0,Face pulls,Hernia discal;Miopatía Inflamatoria
+27,74.63468111608526,1.836065859583865,0,Abdominales,Artritis reumatoide;Bursitis
+36,107.13405537917795,1.5691179600880887,1,Zancadas,Aneurisma cerebral;Diabetes tipo 1
+49,100.91314755151066,1.3980487844179175,0,Correr,
+18,81.54485504511048,1.7183849544753695,1,Face pulls,Esclerosis múltiple
+22,75.570052172523,1.8800511181510853,0,Sprints,
+62,76.80046990077392,1.8238946352939438,0,Press de banca,
+21,84.20276959095625,1.7209659415274625,1,Spinning,Esclerosis lateral amiotrófica;Diabetes tipo 1;Fibromialgia;Angina de Pecho
+33,59.658111522023916,1.6508363814367952,0,Dead bug,Bursitis;Enfermedad Pulmonar Obstructiva Crónica (EPOC);Artritis degenerativa grave
+41,71.13935193864982,1.780712259663731,0,Wall sits,Hernia de Disco;Asma
+33,49.97123889183616,1.602645380029553,0,Spinning,Hernia de Disco
+19,80.98834683907918,1.7476357769356219,1,Levantamiento de pierna lateral,Hernia de Disco;Cardiopatías
+66,84.70793909554112,1.7505470159166627,0,Dead bug,Insuficiencia Cardíaca;Bursitis
+45,67.75220306550939,1.8060209907498879,0,Russian twists,Asma;Tendinitis;Desgarros musculares
+49,98.6098014493505,1.9759660038911078,1,Skaters,Artritis reumatoide;Parkinson;Esclerosis lateral amiotrófica;Hernia discal
+44,56.61351505496488,1.7392415967178767,0,Crunches,distrofia muscular;Hernia de Disco
+37,53.0343767968527,1.64910363742925,0,Step-ups,Hernia discal;Bursitis;Hernia de Disco
+41,78.36677727839958,1.6974425687808006,0,Puente de glúteos,Artritis reumatoide;Fracturas óseas;Osteoartritis
+29,90.70647453918232,1.523092409511088,0,Crunches,Hernia de Disco;Esguinces
+67,100.25891537186803,1.6305286868910942,0,Flexiones,Insuficiencia Cardíaca;Cardiopatías;Parkinson;Miocardiopatía
+52,68.1167360569659,1.6590717561886896,1,Spinning,
+50,91.18021250146944,1.6475911602065407,1,Escaladora,Obesidad mórbida
+50,74.42237295748939,1.7152354872033722,0,Elevación de talones,Miopatía Inflamatoria;Asma;Diabetes tipo 2
+68,72.41059050088771,1.6177580067617798,0,Plancha,Esclerosis lateral amiotrófica;Asma;Colitis ulcerosa;Artritis degenerativa grave
+60,88.25489906230008,1.8121030667324471,0,Skaters,
+54,84.78484317620129,1.7000207064918196,1,Spinning,
+29,51.35411764523626,1.6990699678861385,1,Skaters,Miastenia grave;Hernia de Disco
+20,97.14810524588844,1.6672105283487082,0,Mountain climbers,Osteoartritis;Artritis reumatoide;Tendinitis
+18,95.70137031221176,1.7155190683858978,0,Elíptica,Fracturas óseas;Artritis reumatoide
+50,65.61655947735706,1.7825098264667634,1,Correr en cinta,Angina de Pecho;Insuficiencia Cardíaca;Diabetes tipo 1;Hernia discal
+57,80.93705300156114,1.61328697842891,0,Face pulls,Fracturas óseas;Hernia de Disco;distrofia muscular;Aneurisma cerebral
+27,82.41045279424108,1.6341883510924742,1,Dead bug,
+60,78.9101064873586,1.6696273971223334,1,Russian twists,Artritis reumatoide;Diabetes tipo 2;Tendinitis;Diabetes tipo 1
+61,66.7454226923187,1.5654129076526784,0,Saltar la cuerda,
+46,64.92564948092922,1.6180742140278501,1,Tijeras de pierna,distrofia muscular;Hernia discal;Diabetes tipo 2
+30,74.61668893512832,1.652377912645534,0,Spinning,Miocardiopatía;Tendinitis
+29,92.59093528889048,1.7874389180712726,0,Crunches,Miopatía Inflamatoria;Esclerosis lateral amiotrófica;Parkinson;Hernia de Disco
+48,83.15400231891648,1.7262561329001924,0,Abdominales,Artritis degenerativa grave;Miocardiopatía;Artritis reumatoide
+63,69.44078501870841,1.7193589911367544,0,Bicicleta estática,Osteoporosis;Fibrilación Auricular;Miastenia grave;Esclerosis lateral amiotrófica
+19,86.57548065972517,1.785089796216797,0,Russian twists,
+68,32.27186069054887,1.6862628211600603,0,Sentadilla,
+67,92.23148550558156,1.7390464849928888,1,Escaladora,Tendinitis
+52,48.904293318328506,1.6896778247067503,1,Puente de glúteos,Hernia discal;Insuficiencia Cardíaca;Desgarros musculares;Hernia de Disco
+40,69.56338587895301,1.7265362349399629,1,Puente de glúteos,Angina de Pecho;Desgarros musculares;Bursitis
+34,58.20495158060784,1.6417241342388418,1,Levantamiento de pierna lateral,
+43,55.57977786418641,1.456118284172357,0,Spinning,Osteoartritis;Cardiopatías;Esguinces;Fracturas óseas
+25,92.41240181067779,1.6865720837813696,1,Band pull-aparts,Cardiopatías;Desgarros musculares;Colitis ulcerosa
+46,67.98448198032163,1.842274813609994,1,Hip thrust,Osteoporosis
+43,80.19755822596073,1.7926215402241592,1,Spinning,Cáncer;Esclerosis múltiple
+27,74.29619131681224,1.796539748459117,0,Burpees,Hernia discal
+43,82.15561240834683,1.8236130721806219,1,Side plank,Colitis ulcerosa;Bursitis;Insuficiencia Cardíaca;Artritis reumatoide
+51,76.15232836590383,1.7088657590961438,0,Yoga - Estiramientos,Fracturas óseas;Artritis degenerativa grave;Aneurisma cerebral
+68,55.755116637171454,1.7197315707405596,1,Spinning,Diabetes tipo 2;Fibrilación Auricular;Parkinson
+58,89.94400229170711,1.638234810456565,0,Spinning,Bursitis;Diabetes tipo 1;Miopatía Inflamatoria
+24,67.59365125258032,1.668392714397295,0,Elíptica,Artritis degenerativa grave;Fibrilación Auricular;Angina de Pecho
+21,51.651271520103734,1.761577114977114,1,Elíptica,Dislocaciones;Obesidad mórbida
+67,68.57827258551131,1.8203884437168816,0,Mountain climbers,Asma;Hipertensión arterial
+62,97.51139685951466,1.6860553724319,0,Plancha,Colitis ulcerosa;Fibrilación Auricular
+28,87.7533261317024,1.654981073514859,1,Crunches,Esclerosis múltiple;Cáncer
+46,69.7702179838821,1.7000527958856597,1,Levantamiento de pierna lateral,Insuficiencia Cardíaca;Obesidad mórbida
+53,69.76113443522357,1.7601206748929115,1,Abdominales,
+42,70.17547423173926,1.5556145183866459,0,Caminar,Cáncer;Osteoartritis;Miopatía Inflamatoria
+38,106.15121975341262,1.470381904686276,0,Press Arnold,
+53,80.7290317834733,1.6449463150508417,0,Skaters,Esclerosis lateral amiotrófica;Osteoporosis;Miopatía Inflamatoria;Tendinitis
+27,81.45062470786604,1.577928757408584,1,Press de banca,
+54,90.45425181047763,1.6491859802352689,0,Levantamiento de pierna lateral,Diabetes tipo 2;Esclerosis lateral amiotrófica;Hipertensión arterial;Asma
+26,78.5818373853977,1.6852219681182528,0,Crunches,Fibromialgia;Bursitis
+41,71.11436781268945,1.6546751590976987,0,Tijeras de pierna,Fibrilación Auricular;Fibromialgia;Hernia discal;Insuficiencia Cardíaca
+52,72.05475226372532,1.8452467534470745,0,Band pull-aparts,Esclerosis múltiple;Fibromialgia;Miocardiopatía
+66,73.92598110878905,1.732674476460232,0,Mountain climbers,Dislocaciones
+52,74.44166645235238,1.7300474359610827,0,Press Arnold,
+65,85.9144431545547,1.7622207144043402,0,Elíptica,Aneurisma cerebral;Asma
+53,75.77918828710949,1.586116688221923,1,Elevación de talones,Diabetes tipo 2;Aneurisma cerebral;Enfermedad Pulmonar Obstructiva Crónica (EPOC);Artritis degenerativa grave
+35,85.98960115823368,1.8039111787420268,1,Peso muerto,
+66,73.78925129837127,1.692423571346454,1,Extension de tríceps,
+56,76.17952785474137,1.7670480617241213,0,Plancha,Osteoporosis
+49,45.026989732018386,1.5928142766959845,0,Russian twists,Miocardiopatía;Esclerosis múltiple
+41,88.74491512053723,1.5446241233983935,1,Levantamiento de pierna lateral,Hernia de Disco
+40,80.19732713846989,1.7817889658025028,0,Dominadas,
+49,89.97015164789478,1.7376409526097516,1,Plancha,Obesidad mórbida;Colitis ulcerosa;Esclerosis múltiple
+54,31.556169327094658,1.609794844564249,0,Nadar,distrofia muscular
+29,106.32562057171091,1.6130336918725305,0,Abdominales,Hipertensión arterial;Hernia de Disco;Miopatía Inflamatoria
+66,72.9061555776724,1.812543478441477,1,Crunches,Angina de Pecho;Fracturas óseas
+30,91.62274225106275,1.5810588107132673,1,Escaladora,
+40,59.401411093117034,1.8642672953255963,1,Push press,Osteoartritis;Hernia discal;Bursitis
+42,84.19160857593855,1.6099379265352132,1,Side plank,Hernia discal;Colitis ulcerosa;Hernia de Disco;Esguinces
+52,59.198766552395156,1.7638391925608383,1,Spinning,Desgarro de ligamentos;Lupus eritematoso sistémico;Tendinitis;Fibrilación Auricular
+58,65.64346558956292,1.6671381524251014,0,Flexiones,Hernia de Disco;Esguinces;Miopatía Inflamatoria
+47,103.71047030800179,1.7603187431082343,0,Elíptica,Insuficiencia Cardíaca;Artritis reumatoide;Osteoartritis
+34,72.1397639885498,1.6455885997885806,0,Escaladora,Artritis degenerativa grave;Diabetes tipo 1
+66,78.26149309769585,1.6837207093927706,1,Curls con mancuerna,Hernia discal
+37,88.05101596033131,1.7040919175395721,1,Nadar,Asma
+65,82.43522831958907,1.5997812544218526,1,Plancha,Hernia de Disco;Tendinitis;Desgarro de ligamentos
+42,77.25628357715365,1.7740824345420125,1,Press Arnold,
+39,80.47441503699338,1.6486786433528415,1,Flexiones,Lupus eritematoso sistémico;Hernia discal;Miopatía Inflamatoria;Esguinces
+30,111.05123377857413,1.6771400084659982,1,Superman,Diabetes tipo 2;Esclerosis lateral amiotrófica;Enfermedad Pulmonar Obstructiva Crónica (EPOC)
+36,74.13571804449622,1.6005650625391488,0,Abdominales,Bursitis;Aneurisma cerebral;Hernia discal
+66,78.01648570072452,1.443766634120469,0,Elevación de talones,Miopatía Inflamatoria;Tendinitis
+53,90.75981594011418,1.680897223739983,0,Caminar,Lupus eritematoso sistémico;Asma;Desgarro de ligamentos;Esguinces
+29,91.58288899436975,1.9412615421612915,0,Flexiones,Desgarros musculares
+58,92.8054545834057,1.7784604287898023,0,Escaladora,Parkinson;Cardiopatías;Hipertensión arterial
+36,84.58095333043777,1.6980739620265606,1,Elevación de talones,Fibromialgia;Osteoartritis;Artritis reumatoide;Colitis ulcerosa
+29,57.854926309042746,1.6737109170791733,1,Mountain climbers,Esguinces;Cardiopatías
+26,99.50147298451644,1.7022465892812046,1,Zancadas,
+24,57.804819104719684,1.754711911517521,1,Elíptica,Dislocaciones;Miocardiopatía;Fibromialgia;Asma
+45,79.5395319785855,1.5819187184691155,1,High knees,
+31,63.68586224970963,1.8114321694668871,1,Mountain climbers,
+48,74.0379248011051,1.7715381315441243,0,Abdominales,Diabetes tipo 1;Diabetes tipo 2
+69,79.9314361545522,1.7718185725707933,1,Saltar la cuerda,
+36,79.8203582317541,1.7438475738809727,1,Bicicleta estática,distrofia muscular;Angina de Pecho
+64,81.32881131352927,1.701961665769399,1,Mountain climbers,Cardiopatías;Desgarros musculares
+33,99.20566903587971,1.767286123596682,1,Side plank,Hernia de Disco;Artritis degenerativa grave
+22,81.8030145227097,1.7591814133741377,0,Puente de glúteos,Esclerosis múltiple;Dislocaciones
+52,71.33765047064027,1.6645959289058976,0,Step-ups,
+29,89.46130752432536,1.6426398227103098,1,Dead bug,Angina de Pecho;Hernia discal;Esclerosis múltiple
+42,92.8420573338696,1.7101856295261986,0,Band pull-aparts,Angina de Pecho;Parkinson;Enfermedad Pulmonar Obstructiva Crónica (EPOC);Obesidad mórbida
+69,56.58588277294511,1.8549020151495186,0,Russian twists,
+38,83.96100104774787,1.57608929243461,1,Step-ups,Osteoporosis;Miastenia grave;Osteoartritis
+53,85.51759113466348,1.5532474734247559,1,Dead bug,Parkinson
+40,70.53654744960012,1.7164760841236517,1,Mountain climbers,Fracturas óseas;Artritis degenerativa grave
+33,95.6356021996743,1.7050887701856017,1,Caminar,Cáncer;Asma;Desgarros musculares;Tendinitis
+56,72.7491661945121,1.7173341664370407,1,Abdominales,Desgarro de ligamentos
+62,76.88364680207313,1.72439531979085,0,Correr en cinta,Artritis degenerativa grave;Asma
+59,72.40392263574195,1.6776797745365195,1,Dominadas,Aneurisma cerebral
+56,75.23368571372201,1.848986343860208,1,Superman,Miopatía Inflamatoria;Cáncer;Angina de Pecho;Cardiopatías
+31,58.55587369657197,1.5399096021523484,1,Dead bug,Aneurisma cerebral;Artritis degenerativa grave;Hipertensión arterial
+48,53.39923676108559,1.6171502975219754,0,Press Arnold,
+22,98.91757594837458,1.6896745239850952,1,Caminar,Desgarros musculares
+52,62.29557977522508,1.5356811188845831,1,Abdominales,Miastenia grave;Osteoporosis;Enfermedad Pulmonar Obstructiva Crónica (EPOC)
+40,60.129114758155396,1.6824145595567928,1,Nadar,Esclerosis múltiple;Miopatía Inflamatoria;Insuficiencia Cardíaca
+46,42.699148295944276,1.8661470165728018,0,Superman,Desgarro de ligamentos;Asma;Osteoartritis;Tendinitis
+60,65.41557378465747,1.702088648829596,1,Tijeras de pierna,Parkinson;Insuficiencia Cardíaca;Fibrilación Auricular
+28,55.153653098887524,1.7230700905718683,1,Bicicleta estática,
+35,99.63022740204553,1.573983523482742,1,Nadar,Desgarros musculares
+64,90.1472563401395,1.638363859196052,0,Plancha,Diabetes tipo 1;Insuficiencia Cardíaca
+29,64.67774482233415,1.6624803619676063,1,Tijeras de pierna,Diabetes tipo 1;Colitis ulcerosa;Obesidad mórbida
+26,108.78653708016463,1.6682284903243765,1,High knees,
+27,89.72648230487391,1.8281643795003768,1,Remos con cable,Osteoporosis
+61,70.12752924737066,1.7557691060725125,0,Spinning,
+34,37.508914276896405,1.5888542043062968,1,Spinning,Osteoartritis;Bursitis
+55,109.36413858886112,1.7246504778432004,1,Flexiones,Fibrilación Auricular;Cardiopatías;Hernia discal
+24,54.15641299854606,1.7498221748496785,1,Correr en cinta,Enfermedad Pulmonar Obstructiva Crónica (EPOC);Desgarros musculares;Fracturas óseas
+63,50.31901879564663,1.8140149038521267,0,Wall sits,Hernia de Disco
+30,90.3385564801446,1.8580540686568372,0,Spinning,Hernia de Disco;Fibromialgia;Osteoporosis;Esclerosis lateral amiotrófica
+57,111.59628609508908,1.5984905808172132,1,Extension de tríceps,
+59,95.76409227765777,1.618914248878966,0,Skaters,Desgarro de ligamentos;Dislocaciones
+26,83.4586368007854,1.5742422141085384,0,Side plank,Cardiopatías
+67,83.92131512497929,1.6765980140893018,0,Remo con barra,
+44,87.80123338170462,1.7466358374446334,1,Crunches,Fibromialgia
+19,86.38392884680148,1.7987334516589102,1,Escaladora,
+22,79.21787135954064,1.6924048976357478,0,Crunches,Artritis reumatoide
+46,76.56301655927814,1.6680152476745156,0,Front squats,Osteoporosis
+54,74.06110308150717,1.715175799224874,0,Correr en cinta,Asma;Artritis reumatoide
+55,63.690531166999854,1.6164857098369976,1,Mountain climbers,Fibrilación Auricular;Miopatía Inflamatoria
+36,70.78987384699839,1.9089538721694774,1,High knees,
+25,49.605647787069216,1.539233897288194,0,Dead bug,Fibrilación Auricular;Asma;Cáncer;Desgarros musculares
+65,73.52490559807875,1.7184740578895723,0,Russian twists,Artritis reumatoide
+62,60.17113339273624,1.9023606219229638,0,Yoga - Estiramientos,Obesidad mórbida;Miopatía Inflamatoria;Hernia discal
+18,58.44616024176344,1.7006799844559997,0,Curls con mancuerna,
+39,77.69841226730217,1.6809960964998505,1,Levantamiento de pierna lateral,Asma
+69,95.880034295169,1.6642554577189572,0,Correr en cinta,Artritis reumatoide
+34,88.7747490900347,1.681960831823759,1,Bicicleta estática,Artritis degenerativa grave;Fracturas óseas
+24,51.442490945652345,1.8372848474676529,0,Flexiones,
+42,60.15557795144494,1.4788138088670493,0,Crunches,Desgarro de ligamentos;Bursitis;Osteoartritis
+62,89.11156781982324,1.8533433701296325,0,Plancha,Aneurisma cerebral;Parkinson
+21,60.26268909692536,1.5576042847549854,0,Remos con cable,Artritis reumatoide
+53,71.63050275004463,1.6733347670765584,0,Caminar,Dislocaciones;Cáncer;Colitis ulcerosa
+23,83.25078148536828,1.6570755579701337,1,Abdominales,Artritis degenerativa grave;Enfermedad Pulmonar Obstructiva Crónica (EPOC);Cáncer;Desgarro de ligamentos
+48,60.47483317704547,1.758855326977072,0,Step-ups,Miastenia grave;Insuficiencia Cardíaca
+36,76.5806325921894,1.5401875648116252,0,Russian twists,Asma;Diabetes tipo 2;Fracturas óseas;Hipertensión arterial
+61,54.989617576226934,1.7462172666081943,0,Band pull-aparts,Osteoporosis;Fibromialgia;Diabetes tipo 1;Osteoartritis
+56,65.9794853407318,1.9024309623286852,1,Russian twists,Angina de Pecho;Lupus eritematoso sistémico;Parkinson;Asma
+44,79.79672901213806,1.5636825995407189,1,Band pull-aparts,Artritis degenerativa grave;Fracturas óseas
+27,51.105093997024966,1.7189706167610395,1,Dominadas,
+43,81.60712106940599,1.633801782220339,1,Elevación de talones,Parkinson;Miastenia grave
+36,74.70543301609978,1.7425887206193036,0,Puente de glúteos,Hipertensión arterial;Fracturas óseas;Fibromialgia;Esguinces
+56,83.28734931625722,1.701914777741575,0,Correr en cinta,Fracturas óseas;Colitis ulcerosa;Cardiopatías;Dislocaciones
+20,78.35871201096992,1.635851309095569,0,Elíptica,Miastenia grave;Cardiopatías;Fracturas óseas;Desgarro de ligamentos
+62,95.46210644960766,1.7487872284871073,1,Side plank,Hipertensión arterial;Osteoporosis
+30,76.87836753971861,1.8804348109786742,0,Correr en cinta,
+67,68.5589168831212,1.68090962082727,0,Escaladora,Fracturas óseas;Esguinces;Angina de Pecho;Diabetes tipo 2
+45,76.83446254548426,1.7719757942148182,1,Step-ups,Obesidad mórbida;Fibrilación Auricular;Miocardiopatía
+37,83.14947043554582,1.5706727042128836,1,Dominadas,
+45,75.73290105488556,1.6043563623181991,1,Dead bug,
+25,75.60887536805824,1.7472406277880377,0,Superman,Aneurisma cerebral;Obesidad mórbida;Desgarros musculares;Miocardiopatía
+58,64.47012468289867,1.8484116028535964,0,Spinning,
+56,65.05648623673578,1.735561334878566,1,Bicicleta estática,Bursitis;Asma;Hipertensión arterial;Desgarros musculares
+18,53.96092092300459,1.6686941969476845,0,Band pull-aparts,Fracturas óseas;Desgarros musculares
+20,101.24365114780409,1.6999291405423353,1,Press de banca,
+30,56.34205146913072,1.5749592266030281,1,Side plank,Esclerosis múltiple
+45,64.60642203306139,1.7604515326355366,0,Bicicleta estática,
+66,64.22389101646203,1.7882333062323408,1,Elevación de talones,Fracturas óseas;Hernia de Disco
+42,88.42386565416662,1.654790966716692,1,Superman,
+50,70.57575482561958,1.6529957852240498,1,Bicicleta estática,Esclerosis múltiple
+55,93.716131090106,1.7265878229652047,0,Elíptica,Esguinces;Desgarros musculares;Artritis reumatoide;Cáncer
+23,64.89764063634198,1.6563280263959403,1,Extension de tríceps,Diabetes tipo 2
+61,79.18491243335703,1.6933867385374177,1,Caminar,Desgarro de ligamentos;Fracturas óseas;Hernia discal;Angina de Pecho
+62,62.46979420110364,1.9099721789166515,1,Dominadas,
+49,107.17723691660083,1.6752974299254002,1,Plancha,Hernia de Disco;Osteoporosis;Cardiopatías;Diabetes tipo 2
+62,57.18602371455731,1.6641659847978778,1,Escaladora,Aneurisma cerebral;Parkinson;Bursitis;Cáncer
+64,79.64731065340541,1.635245819436484,1,Side plank,Miopatía Inflamatoria;Artritis reumatoide;Angina de Pecho;Cáncer
+38,84.50665321398148,1.7744191971499936,1,Levantamiento de pierna lateral,Artritis degenerativa grave;Esguinces;Diabetes tipo 1;Parkinson
+33,81.20698646177247,1.6818775826781898,0,Band pull-aparts,Diabetes tipo 2;Desgarros musculares
+38,72.22068511683437,1.6350626961678574,0,Dead bug,Cáncer;Miocardiopatía
+28,73.05268950399861,1.8321304032273011,1,Levantamiento de pierna lateral,
+54,75.65717207968665,1.8419603004513636,0,Russian twists,Parkinson;Tendinitis;Osteoporosis;Artritis reumatoide
+53,72.79496997557267,1.6399576434261294,0,Elíptica,Miopatía Inflamatoria;Asma;Insuficiencia Cardíaca
+52,89.45818675192365,1.5133460048639384,1,Press de banca,
+36,108.15784502387027,1.8007513689836923,0,Caminar,Esclerosis lateral amiotrófica;Asma;Enfermedad Pulmonar Obstructiva Crónica (EPOC);Diabetes tipo 2
+37,66.6376232248825,1.6315370174239996,1,Elíptica,
+35,54.45295530631383,1.7790625599162768,1,Levantamiento de pierna lateral,Miastenia grave;Fibromialgia;Diabetes tipo 1
+64,73.67576927473118,1.5029896182288165,1,Caminar,
+58,113.69564006481477,1.789259733829931,1,Superman,Fracturas óseas;Parkinson
+66,62.944881480454036,1.5788828070719219,1,Tijeras de pierna,Bursitis;Hernia discal;Diabetes tipo 1
+31,99.58675208166102,1.7730764119066524,0,Peso muerto,
+32,100.1655122111466,1.7014273067836434,1,Superman,Fibromialgia
+48,66.69617637438009,1.6046060580603354,0,Elíptica,
+18,83.53474618777913,1.659296368707322,1,Plancha,Osteoartritis;Asma
+20,99.42594934692806,1.76863184569567,1,Levantamiento de pierna lateral,
+33,69.3130838851877,1.7105894453115233,1,Side plank,Cardiopatías
+40,71.94629459846458,1.7584412980472484,0,Hip thrust,Enfermedad Pulmonar Obstructiva Crónica (EPOC)
+28,66.27478629077035,1.8976440584515486,1,Wall sits,Esclerosis múltiple;Parkinson;Desgarros musculares
+29,59.778649039607,1.543575838828895,1,Nadar,distrofia muscular;Miocardiopatía;Esclerosis lateral amiotrófica
+27,65.26083682400989,1.8617212574968622,1,Bicicleta estática,
+49,56.64089599856615,1.7104355937523212,1,Flexiones,Artritis reumatoide;Miastenia grave
+33,75.51125202388839,1.610121595167687,0,Correr en cinta,Osteoartritis;Cardiopatías;Osteoporosis
+25,63.450401534120374,1.566968637426101,1,Abdominales,Enfermedad Pulmonar Obstructiva Crónica (EPOC);Miopatía Inflamatoria;Tendinitis
+55,78.50678867686122,1.6810879609222966,0,Zancadas,Artritis reumatoide
+29,51.66156530694559,1.7921650111924459,1,Side plank,Obesidad mórbida;Fibromialgia
+41,79.96320348321686,1.6872450879622465,0,Crunches,Insuficiencia Cardíaca;Esclerosis múltiple
+45,87.50293442413387,1.8511154930247347,0,Crunches,Osteoartritis;Insuficiencia Cardíaca
+25,45.09396536142817,1.5548824309948441,1,Skaters,Parkinson;Cáncer;Artritis degenerativa grave;Hernia de Disco
+45,80.61084854771359,1.6987911052153946,1,Step-ups,Osteoporosis;Obesidad mórbida;Fibromialgia;Fibrilación Auricular
+53,93.41503488709938,1.5747606555586882,0,Puente de glúteos,Hipertensión arterial;Lupus eritematoso sistémico
+43,56.855384719631914,1.7363631882624968,1,Flexiones,Colitis ulcerosa;Miopatía Inflamatoria;Fibromialgia;Angina de Pecho
+25,100.08858580256555,1.78868873900973,1,Tijeras de pierna,Cardiopatías;Artritis degenerativa grave
+67,81.28528514049067,1.6579238206318947,1,Side plank,Fracturas óseas;Osteoartritis;Desgarro de ligamentos;Tendinitis
+45,64.42482216362387,1.4395786143372864,0,Bicicleta estática,
+45,74.16346383513441,1.7198948146796493,1,Superman,Artritis reumatoide;distrofia muscular;Miocardiopatía;Angina de Pecho
+54,83.37490368782584,1.7436738551733508,1,Bicicleta estática,Osteoporosis
+58,76.14008087118617,1.7404294754961698,1,Caminar,Diabetes tipo 2;Fibromialgia
+53,83.08133988669553,1.8235782191822154,0,Puente de glúteos,Parkinson;Aneurisma cerebral
+44,61.1898961038095,1.5928946320350952,1,Remo con barra,
+34,77.54041236054117,1.7680216105450448,0,Elíptica,Esguinces
+26,53.79428254642529,1.8192507512477976,1,Flexiones,Dislocaciones;Artritis reumatoide
+50,73.33160907976949,1.5221412415993483,0,Yoga - Estiramientos,Colitis ulcerosa;Diabetes tipo 1;Diabetes tipo 2;Cardiopatías
+37,61.44138537802815,1.7319651825918976,1,Russian twists,Lupus eritematoso sistémico
+30,63.9670508611535,1.6495820168992328,1,Spinning,
+45,93.54139762815656,1.6918477326898353,0,Tijeras de pierna,Esclerosis múltiple;Tendinitis
+65,91.36965180891403,1.7347676483538337,0,Band pull-aparts,Dislocaciones;Desgarro de ligamentos
+46,84.13707181360766,1.6512771435886446,0,Tijeras de pierna,Miopatía Inflamatoria;Esguinces
+30,58.61530852991132,1.6324291920838387,1,Levantamiento de pierna lateral,Lupus eritematoso sistémico;Osteoartritis;distrofia muscular;Desgarro de ligamentos
+63,70.25387325457797,1.7034152417488024,1,Step-ups,Miopatía Inflamatoria
+52,93.19646549968775,1.5912754061137198,1,Tijeras de pierna,Diabetes tipo 1;Artritis reumatoide;Fibrilación Auricular
+23,77.12575370459857,1.5914174871114815,1,Step-ups,Insuficiencia Cardíaca;Aneurisma cerebral;Hernia de Disco;Osteoporosis
+35,109.7899430997254,1.7679373282956503,0,Bicicleta estática,Fracturas óseas;Miocardiopatía
+68,80.89976759091557,1.5851205964841344,1,Yoga - Estiramientos,Insuficiencia Cardíaca
+22,77.88073674735047,1.7666312500909211,1,Front squats,
+64,70.36325303696248,1.746259129285395,1,Levantamiento de pierna lateral,Fracturas óseas;Diabetes tipo 1;Desgarro de ligamentos
+42,77.00311357173423,1.5274193271209402,1,Levantamiento de pierna lateral,Bursitis;Esclerosis lateral amiotrófica;Hernia de Disco;Hernia discal
+19,72.71295245429184,1.6322435347664344,1,Dead bug,Esclerosis múltiple;Esclerosis lateral amiotrófica;Osteoartritis
+27,85.62163015032885,1.8194109403047372,1,Peso muerto,
+47,89.35053475191876,1.6018834468860317,1,Elíptica,Cáncer;Insuficiencia Cardíaca;Esclerosis múltiple
+67,63.21015809238076,1.6535595737690612,0,Skaters,Bursitis;Aneurisma cerebral;Desgarros musculares;Asma
+62,55.03150569663333,1.7462060893251896,1,Nadar,Cardiopatías;Parkinson
+22,47.456919403450556,1.7783390509282595,1,Flexiones,Aneurisma cerebral
+50,82.61986990368815,1.6748461113955504,1,Face pulls,Fibromialgia;Enfermedad Pulmonar Obstructiva Crónica (EPOC);Cardiopatías;distrofia muscular
+18,58.449500907391894,1.6402489805308358,1,Sentadilla,
+35,42.706641105712755,1.8422369861698507,0,Caminar,Colitis ulcerosa;Lupus eritematoso sistémico;Miopatía Inflamatoria
+49,80.82867906796446,1.873889966379758,0,Superman,Fracturas óseas
+64,112.39499276149186,1.7978858050781794,0,Skaters,Artritis reumatoide;Bursitis;Asma
+66,74.9089363269016,1.7085318142565025,0,Plancha,Fracturas óseas
+28,87.57736161677462,1.6191734278359073,0,Correr,
+38,76.22744037821347,1.6169555593443434,0,Mountain climbers,Artritis degenerativa grave;Osteoartritis;Desgarros musculares;Miocardiopatía
+43,73.51665520213287,1.7522514105265756,1,Press de banca,
+42,88.78614724481653,1.7418398220888682,0,Band pull-aparts,Hipertensión arterial;Fracturas óseas
+39,70.64588183717024,1.8401598592946429,0,Nadar,Fibromialgia;Cáncer;Obesidad mórbida
+44,79.01088471107855,1.7650450092536139,1,Escaladora,
+66,79.8254670929402,1.5496919698240181,0,Elevación de talones,Enfermedad Pulmonar Obstructiva Crónica (EPOC);Artritis degenerativa grave
+30,64.97864319535427,1.8051947617722919,1,Step-ups,
+50,89.88063524304785,1.6001939372685587,1,Yoga - Estiramientos,Enfermedad Pulmonar Obstructiva Crónica (EPOC);Hernia de Disco;Aneurisma cerebral;Cáncer
+51,72.37560364956887,1.6616028728047647,0,Correr en cinta,Miocardiopatía
+58,63.66382260760733,1.7250200206251693,1,Yoga - Estiramientos,Cáncer;Esclerosis lateral amiotrófica;Colitis ulcerosa;Diabetes tipo 2
+52,83.04764765355606,1.8995667489783963,0,Levantamiento de pierna lateral,Cáncer;Colitis ulcerosa
+18,61.52298027313444,2.010991855600536,0,Elevación de talones,Esclerosis múltiple;Hipertensión arterial;Fibromialgia
+38,75.42271736053692,1.7606723059136182,1,Elíptica,
+65,74.86321505033695,1.6816803381279612,1,Crunches,Enfermedad Pulmonar Obstructiva Crónica (EPOC);Fracturas óseas
+23,91.28843348747367,1.753450564848055,0,Puente de glúteos,Hernia discal;Dislocaciones
+45,82.12047349319928,1.7887655425873836,1,Crunches,Tendinitis;Fracturas óseas;Hipertensión arterial
+34,74.62459561882284,1.6679332374442808,1,Caminar,Esclerosis múltiple;Fibromialgia
+22,87.26649448800431,1.8795211355912322,0,Plancha,Esclerosis múltiple
+48,95.8531132352597,1.7230070759191403,0,High knees,
+22,83.36715459527794,1.7497743089091393,1,Yoga - Estiramientos,Hernia discal;Esguinces
+55,75.15528929765071,1.7665924252054461,0,Escaladora,Miastenia grave
+20,55.32245651474761,1.7421586610614455,0,Press militar,
+40,59.02329505386941,1.783894050046961,0,Tijeras de pierna,Cardiopatías
+54,70.42162943467999,1.6382746813453077,0,Bicicleta estática,Esclerosis lateral amiotrófica;Diabetes tipo 2
+54,65.85731696761076,1.6441698246053968,0,Face pulls,Enfermedad Pulmonar Obstructiva Crónica (EPOC);Tendinitis;Osteoporosis;Bursitis
+27,72.19543045521831,1.5899845767028304,0,Correr en cinta,
+27,75.8497488734566,1.7439501230620227,0,Skaters,Bursitis;Aneurisma cerebral
+36,82.94539131535096,1.7778936503512113,1,Flexiones,Asma
+34,73.94251832911362,1.7457772866151886,0,Dead bug,Aneurisma cerebral;Fibrilación Auricular;Artritis reumatoide;Esguinces
+38,82.29752465739303,1.8674492433347538,1,Nadar,Osteoporosis
+31,75.9671162221518,1.6994403981170954,1,Correr en cinta,Miocardiopatía;Miopatía Inflamatoria
+26,45.36800150469193,1.7668741655592513,1,Press Arnold,
+63,60.90996909271868,1.5908299123860685,0,Kettlebell swings,
+18,72.83868666417577,1.66129002975256,0,Plancha,Insuficiencia Cardíaca
+68,56.85457885738339,1.7695537757565778,1,Wall sits,Dislocaciones
+62,83.99893094994307,1.7849102110743145,0,Crunches,Dislocaciones;Asma;Cáncer
+30,97.96126248515546,1.6706033052335818,1,Peso muerto rumano,
+21,93.28142777545975,1.6928400748141932,0,Nadar,Hernia de Disco;Artritis reumatoide;Esclerosis múltiple
+18,71.79835693604689,1.548212625331919,0,Puente de glúteos,Diabetes tipo 1;Fibrilación Auricular
+66,97.36089205274928,1.664297079919339,1,Mountain climbers,Desgarro de ligamentos;Diabetes tipo 2;Diabetes tipo 1;Fibrilación Auricular
+57,77.23001185803167,1.7890383163519785,1,Levantamiento de pierna lateral,Enfermedad Pulmonar Obstructiva Crónica (EPOC);Fracturas óseas;Lupus eritematoso sistémico
+49,69.94371043322941,1.7575205016106565,1,Dead bug,Hernia discal;distrofia muscular
+51,65.79896004688591,1.750066572138121,0,Escaladora,Hernia discal;Fracturas óseas
+45,70.46295470267808,1.704977368718096,1,Face pulls,distrofia muscular;Fracturas óseas;Artritis degenerativa grave;Asma
+48,69.17734772188157,1.7007063158628175,0,Escaladora,Cáncer;Artritis degenerativa grave
+25,77.55624333563232,1.6339678860526552,0,Escaladora,Hernia de Disco;Miopatía Inflamatoria;Dislocaciones
+56,77.40860971574797,1.7698828420202535,0,Flexiones,Asma;Miocardiopatía
+43,75.04569030230121,1.742097294438939,1,Plancha,Angina de Pecho;Asma
+51,81.55407254619524,1.7492018847992798,1,Caminar,Miocardiopatía
+20,92.85969412179512,1.647396515733242,1,Spinning,
+67,89.24331203161985,1.4846657080128756,0,Puente de glúteos,Diabetes tipo 1;Aneurisma cerebral;Obesidad mórbida;Hernia discal
+29,52.726530473251444,1.8097152711753695,0,Plancha,Bursitis;Hernia discal;Esclerosis múltiple;Desgarros musculares
+18,36.69118297647068,1.6521162543991594,1,Superman,Lupus eritematoso sistémico
+61,89.01479866858911,1.613722423595688,0,Bicicleta estática,Miocardiopatía;Diabetes tipo 1;Enfermedad Pulmonar Obstructiva Crónica (EPOC);Artritis reumatoide
+22,54.49681952376868,1.7693478911913993,0,Wall sits,Miopatía Inflamatoria;Esguinces;Miocardiopatía;Insuficiencia Cardíaca
+47,71.62851897160975,1.660798736008087,1,Caminar,Diabetes tipo 1;Hipertensión arterial
+47,57.448304609109606,1.8059936384046622,1,Tijeras de pierna,distrofia muscular;Osteoporosis
+34,47.970293436299706,1.7617005949576696,1,Spinning,Esclerosis lateral amiotrófica;Bursitis;Miocardiopatía
+65,83.12194092307182,1.7683569323200476,0,Russian twists,Esclerosis múltiple;Obesidad mórbida;Osteoporosis;Fibrilación Auricular
+64,86.3873274045397,1.5634044288799465,0,Caminar,Esguinces;Esclerosis lateral amiotrófica;Miastenia grave
+40,66.35234398909921,1.82119439853864,0,Elevación de talones,Desgarro de ligamentos;Miastenia grave;Angina de Pecho;Asma
+32,36.134365617826354,1.7261250531233856,0,Skaters,Obesidad mórbida;Osteoporosis;Miopatía Inflamatoria
+54,66.80633327621275,1.6630722860753797,0,Bicicleta estática,Cáncer;Miastenia grave;distrofia muscular;Insuficiencia Cardíaca
+38,80.8770600810382,1.714338846734225,1,Nadar,Tendinitis
+31,52.81632646838807,1.522376476710168,0,Face pulls,
+19,77.75039879668734,1.740865281148067,0,Bicicleta estática,Tendinitis;Miocardiopatía;Fracturas óseas
+28,74.77035226240507,1.5970628491817929,0,Push press,Diabetes tipo 2
+68,83.68937249401633,1.5647329714156466,1,Bicicleta estática,Cardiopatías;Osteoporosis;Esclerosis lateral amiotrófica;Desgarro de ligamentos
+56,76.79370552621229,1.5477640813782108,1,Box jumps,
+55,60.40396588677667,1.8112688374989925,1,Curls con mancuerna,Diabetes tipo 2
+51,92.94857252496737,1.637073660630721,0,Dead bug,Artritis degenerativa grave;Artritis reumatoide;Esguinces;Tendinitis
+55,72.62205640459545,1.8533727709916499,1,Peso muerto rumano,Diabetes tipo 1;Enfermedad Pulmonar Obstructiva Crónica (EPOC);Osteoartritis
+67,74.59043190735102,1.6464198536947703,1,Spinning,Cáncer;Esclerosis lateral amiotrófica
+51,61.00098061390206,1.5292642042407052,1,Press Arnold,Colitis ulcerosa;Asma
+35,68.35076623212734,1.588347556005134,0,Band pull-aparts,Miopatía Inflamatoria;Esguinces
+47,61.727959289596484,1.8235811620006939,1,Crunches,Colitis ulcerosa;Artritis degenerativa grave;Esclerosis múltiple
+32,72.40580910114866,1.684410182206333,0,Abdominales,Bursitis;Artritis reumatoide;Desgarro de ligamentos;Lupus eritematoso sistémico
+44,100.67562720213516,1.6451712703509398,0,Puente de glúteos,
+68,54.421482856029655,1.7160018225852787,1,Caminar,Miocardiopatía
+51,50.79657903184888,1.7501782736167544,0,Dead bug,Angina de Pecho
+69,97.06755491240412,1.8117398815902461,1,Spinning,Angina de Pecho;Hernia de Disco;Dislocaciones
+55,71.86014484272201,1.8448499229892925,0,Mountain climbers,Fibrilación Auricular;Cardiopatías;Diabetes tipo 2
+50,64.96390892010125,1.6640231354210915,1,Russian twists,Enfermedad Pulmonar Obstructiva Crónica (EPOC)
+41,90.59857031094114,1.567395231391796,1,Face pulls,Diabetes tipo 2;Miopatía Inflamatoria
+32,65.91576690394703,1.6586534838876723,1,Press de banca,Aneurisma cerebral
+47,102.39014570320404,1.7260280506582886,0,Mountain climbers,Fibrilación Auricular;distrofia muscular;Obesidad mórbida
+59,85.16888807008904,1.6036241073789388,1,Mountain climbers,Miopatía Inflamatoria;Esclerosis múltiple
+68,67.68132887781447,1.6042849085104955,0,Correr en cinta,Miopatía Inflamatoria
+34,107.35962319898255,1.7343787881549886,1,Superman,Tendinitis;Colitis ulcerosa;Esclerosis múltiple
+22,65.91427615494993,1.6951347648429549,0,Zancadas,Aneurisma cerebral
+46,86.13143058013961,1.7032796995411585,0,Bicicleta estática,distrofia muscular;Aneurisma cerebral;Desgarro de ligamentos
+21,79.48938870609737,1.624150466529993,1,Nadar,Bursitis;Tendinitis
+27,94.52611934098198,1.6769599285794232,1,Nadar,
+34,98.42266795090279,1.6075766855731695,1,Spinning,Desgarro de ligamentos;Asma;Esclerosis múltiple
+27,75.4800622359865,1.7890198411124787,1,Crunches,Esclerosis múltiple;Parkinson
+34,63.69873194480725,1.8035249334723753,1,Crunches,Lupus eritematoso sistémico;Hernia de Disco;Fibromialgia;Hipertensión arterial
+37,81.89958214408675,1.5153812137761906,0,Wall sits,
+41,64.8342694537184,1.6070489139807589,1,Plancha,
+22,105.20080871289935,1.550347074490992,1,Superman,Diabetes tipo 2;Hipertensión arterial;Esclerosis múltiple
+51,77.04802996624106,1.6349976065593101,0,Elevación de talones,Colitis ulcerosa;Osteoporosis;Obesidad mórbida;Hernia discal
+23,69.52017673031837,1.6916562030209639,1,Correr en cinta,Esguinces;Miocardiopatía
+19,77.77020458797362,1.555035478030147,1,Correr en cinta,Fibromialgia;Diabetes tipo 2
+30,54.793105657054554,1.6078140186874685,0,Skaters,Insuficiencia Cardíaca;Bursitis;Asma
+60,60.42578942234023,1.59960426279185,1,Press militar,
+60,93.00620861916639,1.7207267329398943,1,Levantamiento de pierna lateral,Fracturas óseas;Aneurisma cerebral;Miastenia grave;Osteoartritis
+65,65.14658581542906,1.706934433703625,1,Face pulls,Hernia de Disco
+28,59.296335259770906,1.6278262446662746,0,Dominadas,
+68,83.04979128790929,1.7176820872139398,1,Spinning,Cáncer;Desgarro de ligamentos;Bursitis;Hernia de Disco
+64,92.78556231994496,1.6453319915412734,0,Elevación de talones,Angina de Pecho;Miopatía Inflamatoria;Bursitis;Obesidad mórbida
+40,85.784299659976,1.6728344889673947,1,Mountain climbers,Osteoartritis;Tendinitis;Colitis ulcerosa
+33,89.94071528708724,1.8673452090298537,0,Yoga - Estiramientos,Esclerosis múltiple;Diabetes tipo 2;Artritis reumatoide;Fibromialgia
+48,63.64807367145809,1.8340461051790347,1,Kettlebell swings,
+28,53.67283999887235,1.5700418763072401,0,Extension de tríceps,
+33,97.5200047793323,1.7829732417879174,0,Nadar,Tendinitis;Artritis degenerativa grave
+25,70.15980241736797,1.7811396554491592,0,Step-ups,Aneurisma cerebral;Desgarro de ligamentos
+21,71.23750475317429,1.5851736711247382,0,Elevación de talones,Colitis ulcerosa;Osteoporosis;Miocardiopatía
+57,94.92291212773587,1.781877764375486,0,Superman,Obesidad mórbida;Dislocaciones;Miopatía Inflamatoria;Artritis reumatoide
+21,83.3434501410099,1.8537931918412554,0,Escaladora,Insuficiencia Cardíaca;Esguinces;Miopatía Inflamatoria
+42,81.83831658122412,1.5877455193755585,1,Puente de glúteos,Esclerosis múltiple;Asma
+20,107.47503517351626,1.6082497178985735,1,Abdominales,Hipertensión arterial;Dislocaciones
+49,65.34722654429785,1.8017661466843502,0,Abdominales,Fibrilación Auricular
+20,88.91760192121856,1.7271495310825649,0,Band pull-aparts,Miopatía Inflamatoria;Desgarros musculares;Colitis ulcerosa;Diabetes tipo 1
+44,75.85519687345626,1.7551476275239524,0,Plancha,Miocardiopatía;Fracturas óseas
+46,79.02888418294886,1.7340589216400497,0,Escaladora,Artritis degenerativa grave;Cáncer
+49,97.92702639618798,1.7390695920928143,1,Plancha,Asma;Miocardiopatía
+67,82.61753634434436,1.5673527871688917,0,Crunches,Angina de Pecho
+68,83.07444118574449,1.8047317706621449,1,Face pulls,Osteoartritis;Asma;Hernia discal
+36,91.08761005964703,1.8169589992427773,1,Plancha,Asma;Fibromialgia;Angina de Pecho;Bursitis
+38,69.52570905685673,1.6770609255931972,0,Band pull-aparts,Miastenia grave;Tendinitis
+22,62.4118549899149,1.6956523050186136,0,Superman,Fracturas óseas
+35,59.327862089684494,1.5468892497444278,1,Nadar,Osteoartritis
+45,45.50465115935997,1.7514254756017835,1,Dead bug,Insuficiencia Cardíaca;Hipertensión arterial;Angina de Pecho;Artritis reumatoide
+59,105.84310694910484,1.7572057441714144,0,Elevación de talones,Miastenia grave;Hernia de Disco;Aneurisma cerebral;Artritis reumatoide
+39,58.451874514174754,1.6937808983000688,0,Spinning,Cardiopatías
+38,71.68119564621342,1.8124353359870502,0,Yoga - Estiramientos,
+23,70.84780050166619,1.6665922769020058,1,Press de banca,
+18,79.61110046713651,1.75646059258936,1,Band pull-aparts,Hipertensión arterial;Artritis degenerativa grave;Miocardiopatía
+22,87.23605818808946,1.5980335661307885,0,Puente de glúteos,Parkinson;Desgarro de ligamentos;Fracturas óseas
+58,87.90710232539618,1.6976447849125762,1,Elíptica,Esclerosis lateral amiotrófica;Cardiopatías;Desgarro de ligamentos;Asma
+29,66.25383842146593,1.6825645742097164,1,Skaters,Diabetes tipo 2;Colitis ulcerosa;Artritis degenerativa grave;Osteoartritis
+43,72.49317429320382,1.7225307922040942,0,Superman,Osteoporosis
+63,79.2386992573245,1.663047307116664,0,Flexiones,Dislocaciones;Asma;Desgarros musculares
+51,71.26963310724679,1.6868527404328333,1,Wall sits,Miocardiopatía
+66,99.1101836402999,1.7826047171441506,1,Elevación de talones,Hipertensión arterial;Esguinces;Insuficiencia Cardíaca;Angina de Pecho
+31,82.36462427457377,1.6563235762761783,0,Band pull-aparts,Desgarro de ligamentos;Insuficiencia Cardíaca;Miopatía Inflamatoria;Dislocaciones
+43,86.02316679074727,1.539342289926132,0,Dominadas,
+62,84.94321903001119,1.874958390420542,0,Spinning,
+44,92.60210786227987,1.8381454078690487,0,Plancha,Desgarro de ligamentos;Cardiopatías;Osteoartritis
+26,77.7153233805556,1.570773730489438,0,Correr en cinta,Fibromialgia;Desgarros musculares
+43,55.5475207806623,1.7689707805245194,1,Flexiones,Parkinson;Desgarros musculares;Obesidad mórbida
+64,80.99531927628962,1.6497025229448656,1,Band pull-aparts,Desgarros musculares;Esguinces;Aneurisma cerebral;Artritis degenerativa grave
+39,65.22964659312257,1.726348721533106,1,Side plank,Miocardiopatía;Fracturas óseas;Tendinitis
+64,67.07074977375365,1.7294224129013493,1,Abdominales,Artritis degenerativa grave;Enfermedad Pulmonar Obstructiva Crónica (EPOC);Osteoartritis;Miocardiopatía
+47,83.7954602813264,1.6765592199683677,0,Puente de glúteos,
+60,93.57424607150453,1.6216234334413604,0,Puente de glúteos,Tendinitis
+65,75.31907365104092,1.630945894768374,0,Side plank,Dislocaciones
+34,79.63249518898445,1.6083808084518756,1,Escaladora,Desgarros musculares;Miocardiopatía;Parkinson;Tendinitis
+43,100.53322416952857,1.6168177791769556,1,Curls con mancuerna,
+53,78.61129769232852,1.6932821709950645,1,Nadar,Tendinitis;Parkinson;Cáncer;Hernia discal
+18,114.02524671270592,1.6284240010889248,0,Flexiones,Desgarro de ligamentos;distrofia muscular;Dislocaciones
+25,83.48264468447316,1.768205206571262,1,Puente de glúteos,
+66,48.58855861266274,1.8487246155335928,0,Levantamiento de pierna lateral,Diabetes tipo 1;Esclerosis lateral amiotrófica;Tendinitis;Diabetes tipo 2
+52,86.30012431656799,1.6419946758629957,0,Russian twists,Cáncer;Fibrilación Auricular;Diabetes tipo 2
+69,80.71737577324167,1.7239404500535376,0,Russian twists,Fracturas óseas
+32,94.34629131124119,1.7499685110302934,0,Mountain climbers,Desgarros musculares;distrofia muscular;Lupus eritematoso sistémico
+64,85.09772026904938,1.7472002270919273,0,Elevación de talones,Desgarros musculares
+39,72.92316024024339,1.7075955267916088,0,Step-ups,
+31,56.635526455659516,1.774268241835972,1,Caminar,Hernia discal
+43,71.86465114070963,1.7482248952680657,0,Wall sits,
+45,62.2421931868605,1.5762337577672703,0,Spinning,
+40,66.29214825292917,1.7869156064389273,1,Plancha,Artritis reumatoide;Hernia de Disco;Osteoartritis
+31,83.82867606630914,1.788729083726674,0,Side plank,
+41,100.0485675652711,1.6236713895821417,1,Band pull-aparts,Lupus eritematoso sistémico;Desgarros musculares;Dislocaciones;Tendinitis
+19,80.92007294734472,1.70379378354476,1,Peso muerto,
+62,57.06175406947224,1.768332899281107,1,Skaters,Tendinitis
+43,81.66904002330212,1.6790686180420638,0,Abdominales,distrofia muscular;Osteoartritis
+31,92.94947229968477,1.807297804776601,0,Dead bug,Tendinitis
+68,65.85325643520926,1.936387249461936,1,Spinning,Diabetes tipo 1;Tendinitis
+24,72.98974249990623,1.6214013967365017,0,Levantamiento de pierna lateral,Fracturas óseas
+20,75.22032292093796,1.5618955396846226,0,Russian twists,Tendinitis;Desgarro de ligamentos
+64,63.2265253037664,1.7303818595604876,1,Bicicleta estática,
+40,84.72420650765788,1.7721562505126143,1,Yoga - Estiramientos,Esclerosis lateral amiotrófica
+63,73.18577777088328,1.676913362615523,0,Russian twists,Osteoartritis;Dislocaciones;Cáncer;Fracturas óseas
+60,81.29298665860541,1.8453260663321034,1,Yoga - Estiramientos,Obesidad mórbida;Parkinson;Artritis degenerativa grave;Aneurisma cerebral
+64,61.6876173329685,1.566139420027675,1,Caminar,Fracturas óseas
+62,68.43812549514884,1.769291862303161,1,Spinning,Colitis ulcerosa;Fracturas óseas;Osteoartritis
+35,85.83572036741657,1.6394139179241107,0,Plancha,
+55,69.40750271862349,1.8719377906207297,0,Spinning,Insuficiencia Cardíaca;Hipertensión arterial;Esclerosis lateral amiotrófica;Artritis reumatoide
